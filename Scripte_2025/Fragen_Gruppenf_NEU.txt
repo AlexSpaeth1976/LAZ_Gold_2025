@@ -1,0 +1,536 @@
+1 Welche Aussagen sind richtig?
+
+a) Die Feuerwehr ist eine gemeinnützige, der Nächstenhilfe dienende Einrichtung  !!X!!
+b) Die Feuerwehr ist ein gemeinnütziger Verein !!O!!
+c) Die Feuerwehr ist ein Verein, ohne eigene Rechtspersönlichkeit !!O!!
+d) Die Feuerwehr ist eine Einrichtung der Gemeinde  !!X!!
+
+
+2 Welche Grundrechte können zur Erfüllung der Aufgaben der Feuerwehr nach § 2 des Feuerwehrgesetzes (FwG) Baden-Württemberg eingeschränkt werden?
+
+a) Freiheit der Person  !!X!!
+b) Meinungsfreiheit / Pressefreiheit !!O!!
+c) Gleichheit vor dem Gesetz !!O!!
+d) Versammlungsfreiheit !!O!!
+e) Unverletzlichkeit der Wohnung  !!X!!
+f) Recht auf Eigentum  !!X!!
+
+
+3 Welche Aufgabe hat der Feuerwehrausschuss (Abteilungsausschuss) entsprechend dem Feuerwehrgesetz (FwG) Baden-Württemberg und in welchen Zeitabständen ist er zu wählen?
+
+a) Jahresabschlussübung vorbereiten !!O!!
+b) Beratung des Kommandanten  !!X!!
+c) Beschaffung von Feuerwehrfahrzeugen !!O!!
+d) Feuerwehrangehörige bei fortgesetzter Nachlässigkeit im Dienst entlassen !!O!!
+e) Kommandant unterstützen  !!X!!
+f) Feuerwehrsatzung erstellen !!O!!
+g) Drei Jahre !!O!!
+h) Fünf Jahre  !!X!!
+
+
+4 Welche Aufgaben obliegen dem Land nach dem Feuerwehrgesetz Baden-Württemberg?
+
+a) Förderung der Aus- und Fortbildung  !!X!!
+b) Errichtung und Unterhaltung einer Landesfeuerwehrschule  !!X!!
+c) Lohnfortzahlung an Arbeitnehmer bei Arbeitsunfähigkeit in Folge eines Feuerwehreinsatzes !!O!!
+d) Angehörige der Feuerwehr gegen Haftpflicht versichern !!O!!
+e) Gemeinden bei der Beschaffung von Ausrüstung unterstützen  !!X!!
+f) Förderung der Normung und Forschung  !!X!!
+g) Für jeden Landkreis mindestens einen Kreisbrandmeister nach Anhörung der Kommandanten bestellen !!O!!
+
+
+5 Welches sind die Dienstpflichten der ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr?
+
+a) Am Dienst einschließlich der Aus- und Fortbildung regelmäßig und pünktlich teilnehmen  !!X!!
+b) Den dienstlichen Weisungen der Vorgesetzten nachkommen  !!X!!
+c) Sich im Dienst vorbildlich und kameradschaftlich verhalten  !!X!!
+d) Bei Alarm unverzüglich zur Einsatzstelle fahren !!O!!
+e) Bei Alarm sich unverzüglich am Alarmplatz (Feuerwehrhaus) einzufinden  !!X!!
+f) Die technische Einsatzleitung übernehmen !!O!!
+g) Hydrantenplan erstellen !!O!!
+
+
+6 Welche der Aussagen ist richtig?
+
+a) Feuerwehrangehörige sind bei der der Alarmfahrt mit dem eigenen Pkw zum Feuerwehrgerätehaus berechtigt, die §§ 35 und 38 der StVO in Anspruch zu nehmen, sie müssen nur dauernd hupen !!O!!
+b) Feuerwehrangehörige müssen bei der Fahrt mit ihrem Pkw zum Feuerwehrhaus, auch bei einem Alarm, die allgemeinen Regeln der StVO einhalten  !!X!!
+c) Ein Anwesenheitsnachweis beim Einsatz- und Übungsdienst gehört zu einem geregelten Dienstbetrieb der Feuerwehr  !!X!!
+d) Die Gemeindefeuerwehr muss jährlich einen Dienstplan erstellen, der den Umfang und die Inhalte des Ausbildungs- und Übungsdienstes verbindlich festlegt  !!X!!
+
+
+7 Wer entscheidet darüber, ob eine Katastrophe vorliegt?
+
+a) Der Feuerwehr-Einsatzleiter (Technischer Einsatzleiter) !!O!!
+b) Die Ortspolizeibehörde !!O!!
+c) Die Katastrophenschutzbehörde  !!X!!
+d) Das Lagezentrum im Regierungspräsidium !!O!!
+
+
+8 Welches sind die Katastrophenschutzbehörden nach dem Landeskatastrophenschutzgesetz?
+
+a) Die Berufsfeuerwehr eine Gemeinde !!O!!
+b) Landratsämter und Bürgermeister der Stadtkreise  !!X!!
+c) Die Landesregierung !!O!!
+d) Die Regierungspräsidien  !!X!!
+e) Das Innenministerium  !!X!!
+
+
+9 Was versteht man unter dem Begriff „untere Explosionsgrenze“?
+
+a) Die Temperatur, bei der eine Explosion frühestens möglich ist !!O!!
+b) Die Explosion eines Gas-Luft-Gemisches unter Erdgleiche !!O!!
+c) Der niedrigste Sauerstoffgehalt (%) in der Luft, bei dem eine Explosion möglich ist !!O!!
+d) Die niedrigste Konzentration des brennbaren Stoffes im Gemisch von Gasen, Dämpfen, Nebeln und/oder Stäuben, in dem sich nach dem Zünden ein Brennen gerade nicht mehr selbstständig fortpflanzen kann  !!X!!
+
+
+10 Welche der aufgeführten Stoffe gehören zur Brandklasse A?
+
+a) Acetylen !!O!!
+b) Aceton !!O!!
+c) Ammoniak !!O!!
+d) Autoreifen  !!X!!
+e) Baumwolle  !!X!!
+f) Holz (Hobelspäne)  !!X!!
+g) Bienenwachs !!O!!
+
+
+11 Bei welchem der aufgeführten Löschmittel ist der Stickeffekt als Hauptlöscheffekt zu betrachten?
+
+a) Wasser als Sprühstrahl !!O!!
+b) Kohlenstoffdioxid  !!X!!
+c) Pulver für Brandklasse B und C !!O!!
+d) Pulver für Brandklasse A, B und C !!O!!
+e) Luftschaum mit 75facher Verschäumung  !!X!!
+
+
+12 Bei welchen Einsätzen ist Wasser als Löschmittel nicht anzuwenden?
+
+a) Schornsteinbrände  !!X!!
+b) bei Zersetzung von Düngemittel !!O!!
+c) Metallbrände  !!X!!
+d) Heustockbrände !!O!!
+e) Schwelbrände in Kellergeschossen !!O!!
+f) Mineralölbrände  !!X!!
+
+
+13 Wodurch ist eine Kraft gekennzeichnet?
+
+a) Größe der Kraft  !!X!!
+b) Geschwindigkeit der Kraft !!O!!
+c) Richtung der Kraft  !!X!!
+d) Dauer der Kraftwirkung (Minuten / Sekunden) !!O!!
+e) Angriffspunkt der Kraft  !!X!!
+
+
+14 Welche Höchstlast L kann bei der vorliegenden Seilführung mit einem Mehrzweckzug Z 16 (Zugkraft 16 kN) gehoben werden?
+
+a) L = 1600 kg !!O!!
+b) L = 3200 kg  !!X!!
+c) L = 4800 kg !!O!!
+d) L = 6400 kg !!O!!
+
+
+15 Für welchen Fahrbereich (km) oder Betrieb (h) fest eingebauter Aggregate muss der Kraftstoff bei Feuerwehrfahrzeugen mindestens ausreichend sein?
+
+a) 200 km oder 2 h !!O!!
+b) 300 km oder 3 h !!O!!
+c) 300 km oder 4 h  !!X!!
+d) 400 km oder 4 h !!O!!
+
+
+16 Welche Feuerwehrpumpen gehören nach Norm zu einem Löschgruppenfahrzeug LF 10?
+
+a) FPN 10/750 !!O!!
+b) FPN 10/1000  !!X!!
+c) TUP 3-1,5 !!O!!
+d) TP 8/1 !!O!!
+
+
+17 Welchen Inhalt muss der eingebaute Löschwasserbehälter bei einem Löschgruppenfahrzeug LF 20 nach Norm mindestens haben?
+
+a) 800 Liter !!O!!
+b) 1200 Liter !!O!!
+c) 1600 Liter  !!X!!
+d) 2500 Liter !!O!!
+
+
+18 Wie reagiert ein Gruppenführer auf die Lagemeldung eines Angriffstrupps, wenn dieser meldet, er habe beim Vorgehen zur Brandbekämpfung in einem Raum Fässer mit brennbarer Flüssigkeit gefunden? Der Gruppenführer weist den Angriffstrupp an:
+
+a) Die Fässer heraus zu tragen !!O!!
+b) Die Gefahrensymbole zu beschreiben  !!X!!
+c) Den Zustand der Fässer zu beschreiben  !!X!!
+d) Die Fässer zu kühlen !!O!!
+e) Die Fässer abzulöschen !!O!!
+f) An den Fässern nicht vorbeigehen  !!X!!
+
+
+19 Wann ist an Brandstellen mit gefährlichen Konzentrationen von Kohlenstoffmonoxid CO zu rechnen?
+
+a) Nach einer Explosion !!O!!
+b) Bei Bränden in geschlossenen Räumen bei mangelnder Luftzufuhr  !!X!!
+c) Bei Schwelbränden der Brandklasse A  !!X!!
+d) Bei Bränden der Brandklasse C !!O!!
+
+
+20 Welche der aufgeführten Atemgifte wirken durch Reiz- und Ätzwirkung schädigend auf den Menschen?
+
+a) Kohlenstoffdioxid !!O!!
+b) Blausäure und Dämpfe von Methylalkohol !!O!!
+c) Chlor und Säuredämpfe  !!X!!
+d) Nitrose Gase  !!X!!
+e) Stickstoff und Methan !!O!!
+
+
+21 In welchen der farblich gekennzeichneten Druckgasflaschen befinden sich brennbare Gase? In Klammer ( ) ältere Kennzeichnung.
+
+a) Blaue Flaschen mit zwei weißen Kreisen auf der Flaschenschulter !!O!!
+b) Kastanienbraune Flasche (gelb)  !!X!!
+c) Grüne Flasche !!O!!
+d) Rote Flasche  !!X!!
+e) Graue Flasche !!O!!
+f) Graue Flasche mit roter Gasflaschenschulter  !!X!!
+
+
+22 Eine Acetylengasflasche ist längere Zeit der Brandwärme ausgesetzt. Was müssen Sie beachten?
+
+a) Eine weitere Erwärmung kann zu einem Druckgefäßzerknall führen  !!X!!
+b) Flasche muss aus geschützter Stellung fortlaufend gekühlt werden  !!X!!
+c) Nach dem Abkühlen kann sich die Flasche wieder von selbst erwärmen  !!X!!
+d) Flasche muss mindestens 24 Stunden nach Erreichen der normalen Temperatur an einem sicheren Ort gelagert und kontrolliert, notfalls weiterhin gekühlt werden  !!X!!
+e) Flasche kann nach dem Abkühlen zur weiteren Benutzung verwendet werden !!O!!
+f) Flasche muss von der Feuerwehr gekennzeichnet und zum Füllwerk gebracht werden !!O!!
+g) Flasche muss gekennzeichnet, an Füllwerk übergeben und von diesem überprüft werden  !!X!!
+
+
+23 Bei welcher Art der Wärmeübertragung wird kein Übertragungsmedium benötigt?
+
+a) Wärmeströmung !!O!!
+b) Wärmestrahlung  !!X!!
+c) Wärmeleitung !!O!!
+
+
+24 Welche Treibmittel werden in Feuerlöschern verwendet und welche Arten von tragbaren Feuerlöschern gibt es?
+
+a) Luft, Helium, Kohlenstoffdioxid  !!X!!
+b) Propan, Butan !!O!!
+c) Flüssigkeitsbrandlöscher !!O!!
+d) Aufladelöscher  !!X!!
+e) Dauerdrucklöscher  !!X!!
+f) Gaslöscher  !!X!!
+g) Giftlöscher !!O!!
+h) Schlaglöscher !!O!!
+i) Pulverlöscher  !!X!!
+
+
+25 Welche Löschmittel werden in tragbaren Feuerlöschern eingesetzt?
+
+a) Wasser mit Zusätzen  !!X!!
+b) Graugussspäne !!O!!
+c) D-Löschpulver  !!X!!
+d) Schaumlöschmittel  !!X!!
+e) BC-Löschpulver  !!X!!
+f) ABC-Löschpulver  !!X!!
+g) Kohlenstoffdioxid  !!X!!
+h) Feiner Sand !!O!!
+i) Schweröl !!O!!
+j) Wasser  !!X!!
+
+
+26 Welche Vorteile hat ein Trinkwasserleitungsnetz, das als Ringleitungssystem ausgelegt ist?
+
+a) Es bilden sich in den Rohrleitungen weniger Ablagerungen  !!X!!
+b) Kurze Abschaltstrecken bei Rohrbruch  !!X!!
+c) Geringere Bau- und Unterhaltungskosten als bei einem Verästelungssystem !!O!!
+d) Hydranten fließen von zwei Seiten Wasser zu  !!X!!
+
+
+27 Nach welcher Faustformel errechnet sich der Abstand (m) von Verstärkerpumpen?
+
+a) Abstand = (Ausgangsdruck/Druckverlust) x 100 !!O!!
+b) Abstand = (Gesamtförderdruck/Druckverlust) x 100 !!O!!
+c) Abstand = (Verfügbarer Druck/Druckverlust) x 100  !!X!!
+
+
+28 In welcher maximalen Entfernung von einem Hydranten kann ein Löschfahrzeug aufgestellt werden, ohne dass Gefahr besteht, den notwendigen Pumpeneingangsdruck zu unterschreiten? (Wasserdruck am Standrohr: 5,4 bar, Förderstrom Q = 800 Liter/Minute, Reibungsverlust 1,3 bar / 100 Meter, verfügbare Wassermenge am Standrohr: 1200 Liter / Minute)
+
+a) 250 Meter !!O!!
+b) 300 Meter  !!X!!
+c) 320 Meter !!O!!
+
+
+29 Wie viel Wasser (Liter/Minute) liefert ein Unterflurhydrant bei „normalem“ Druckverhältnis im Rohrleitungsnetz?
+
+a) Nennweite (mm) der Anschlussleitung x 7-10  !!X!!
+b) Nennweite (mm) der Anschlussleitung x 12-15 !!O!!
+c) Nennweite (mm) der Anschlussleitung x 15-17 !!O!!
+
+
+30 Welche Aufgaben muss der Wachhabende im Feuersicherheitswachdienst vor Beginn einer Veranstaltung wahrnehmen?
+
+a) Kontrolle der Rettungswege  !!X!!
+b) Einweisung der Sicherheitsposten  !!X!!
+c) Durchführung ordnungsdienstlicher Tätigkeiten !!O!!
+d) Überprüfung der Alarmierungsmöglichkeiten  !!X!!
+
+
+31 Welcher Baustoffklasse und welcher bauaufsichtlichen Benennung (nach DIN 4102) müssen Dekorationsmaterialien in Versammlungsräumen mindestens entsprechen?
+
+a) B1  !!X!!
+b) Normal entflammbar !!O!!
+c) Schwer entflammbar  !!X!!
+d) F 30 !!O!!
+
+
+32 Welche der nachfolgenden Bedingungen muss erfüllt sein, damit die Standsicherheit eines Gebäudes gewährleistet ist?
+
+a) Brandverhütungsschau muss durchgeführt sein !!O!!
+b) Brandausbreitung in baulichen Anlagen richtig abschätzen !!O!!
+c) Am Gebäude wirkende Kräfte müssen im Gleichgewicht sein  !!X!!
+
+
+33 Welche baulichen Einrichtungen und Geräte können bei Gebäuden als Rettungsweg (Erster und zweiter Rettungsweg) angesehen werden?
+
+a) Notwendige Treppen  !!X!!
+b) Tragbare Leitern  !!X!!
+c) Fluchthauben !!O!!
+d) Aufzüge !!O!!
+e) Drehleitern  !!X!!
+
+
+34 Welche bauaufsichtliche Benennung steht für die Feuerwiderstandsklasse F 30-B (nach DIN 4102) eines Bauteils?
+
+a) Feuerbeständig !!O!!
+b) Feuerhemmend  !!X!!
+c) Nicht brennbar !!O!!
+d) Schwer entflammbar !!O!!
+
+
+35 Welche der aufgeführten Tätigkeiten gehören zu den lebensrettenden Sofortmassnahmen?
+
+a) Verkehrssicherung, Verkehrsregelung !!O!!
+b) Knochenbrüche schienen !!O!!
+c) Wiederbelebung, Atemspende  !!X!!
+d) Lagerung und Schockbekämpfung  !!X!!
+e) Anschrift und Name des Verletzten notieren !!O!!
+
+
+36 Welche Maßnahmen müssen eventuell durchgeführt werden, um die Vital-Funktionen einer verletzten Person aufrechtzuerhalten und/oder wieder herzustellen?
+
+a) Blutstillung  !!X!!
+b) Warmes Getränk verabreichen !!O!!
+c) Injektion vorbereiten !!O!!
+d) Lagerung  !!X!!
+e) Wärmeerhaltung  !!X!!
+f) Überwachung von Puls und Blutdruck  !!X!!
+g) Überwachung von Atmung und Bewusstseinslage  !!X!!
+h) Notruf veranlassen !!O!!
+i) Verletzten über Unfallhergang befragen !!O!!
+
+
+37 Welche Anzeigen deuten auf einen Schock hin?
+
+a) Durstgefühl !!O!!
+b) Starke Kopfschmerzen !!O!!
+c) Frieren, Zittern  !!X!!
+d) Blasse, kalte und feuchte Haut  !!X!!
+e) Starke Blutungen  !!X!!
+f) Auffallende Unruhe  !!X!!
+g) Schneller und schwächer werdender Puls  !!X!!
+h) Tiefer Schlaf !!O!!
+i) Auffallende Heiterkeit !!O!!
+j) Angabe von Angstgefühl !!O!!
+
+
+38 Welche Stelle auf der UTM-Karte wird durch nachfolgende Koordinate bestimmt?
+
+a) Stelle A  !!X!!
+b) Stelle B !!O!!
+
+
+39 Was ist beim Retten von hilflosen Personen aus Schächten zu beachten?
+
+a) Schacht mit Sauerstoff anreichern !!O!!
+b) Retter mit Atemschutzgerät und Feuerwehrleine ausrüsten  !!X!!
+c) Person mit Feuerwehrleine oder Rettungsgurt sichern  !!X!!
+
+
+40 Warum gibt es Feuerwehr-Einsatzpläne?
+
+a) Damit sich der Bürgermeister über die Einsatzfähigkeit seiner Feuerwehr informieren kann !!O!!
+b) Damit sich der Einsatzleiter bei der Anfahrt über eventuelle Gefahren und das mögliche Vorgehen informieren kann  !!X!!
+c) Damit der Kreisbrandmeister die Einsatzleitung übernehmen kann !!O!!
+
+
+41 Kreuzen Sie die drei Tätigkeiten an, die der nach einem Alarm zuerst am Feuerwehrhaus eintreffende Feuerwehrangehörige vorrangig zu erledigen hat!
+
+a) Fahrzeugmotor warm laufen lassen !!O!!
+b) Seine Ausrüstung holen und überprüfen !!O!!
+c) Mit der Leitstelle Verbindung aufnehmen  !!X!!
+d) Kreisbrandmeister verständigen !!O!!
+e) Einsatzauftrag von der Leitstelle erfragen  !!X!!
+f) Einsatzauftrag der Leitstelle wiederholen und eventuell aufschreiben  !!X!!
+
+
+42 Wie fordern Sie als Gruppenführer in der Regel die Unterstützung anderer Feuerwehren oder Dienststellen bei einem Einsatz an?
+
+a) Direkt über Telefon !!O!!
+b) Nur über die Leitstelle  !!X!!
+c) Direkt über Funk !!O!!
+
+
+43 Welche Begriffe muss ein Befehl enthalten?
+
+a) Einheit  !!X!!
+b) Lage !!O!!
+c) Hydranten !!O!!
+d) Auftrag  !!X!!
+e) Ort, Zeit, Wetter !!O!!
+f) Mittel  !!X!!
+g) Ziel  !!X!!
+h) Weg  !!X!!
+i) Schadenstelle !!O!!
+
+
+44 Wer entscheidet an der Einsatzstelle vorrangig über medizinische Maßnahmen am Verletzten?
+
+a) Technischer Einsatzleiter !!O!!
+b) Bürgermeister !!O!!
+c) Betriebsleiter beziehungsweise Werksdirektor !!O!!
+d) Notarzt  !!X!!
+e) Kommandant !!O!!
+f) Sicherheitsbeauftragte !!O!!
+
+
+45 Welche nachfolgenden Grundsätze sind im Sprechfunkverkehr zu beachten?
+
+a) Höflichkeitsformeln unterlassen  !!X!!
+b) Personennamen und Amtsbezeichnungen dürfen nicht genannt werden !!O!!
+c) Teilnehmer mit „Sie“ anreden  !!X!!
+d) Strenge Funkdisziplin einhalten  !!X!!
+e) Abkürzungen benutzen, damit Funkzeit kurz ist !!O!!
+f) Eigennamen und schwer verständliche Worte buchstabieren  !!X!!
+g) Zahlen unverwechselbar aussprechen  !!X!!
+h) Deutlich und laut sprechen ohne Pausen !!O!!
+
+
+46 Verkehrsarten sind von den technischen Möglichkeiten der Funkgeräte abhängige Verfahren des Nachrichtenaustausches im Sprechfunkverkehr. Wie werden sie unterschieden?
+
+a) Wechselverkehr  !!X!!
+b) Richtungsverkehr  !!X!!
+c) Kreisverkehr !!O!!
+d) Sternverkehr !!O!!
+e) Gegenverkehr  !!X!!
+f) Bedingter Gegenverkehr  !!X!!
+g) Linienverkehr !!O!!
+
+
+47 Welche Aussage ist richtig?
+
+a) „Einfach-Nachrichten“ werden in der Reihenfolge ihres Eingangs abgefertigt  !!X!!
+b) „Sofort-Nachrichten“ müssen in der Reihenfolge ihres Eingangs, jedoch vor „Einfach-Nachrichten“ abgefertigt werden  !!X!!
+c) „Gespräche“ sollen stichwortartig vorgefertigt sein und von der Gegenstelle niedergeschrieben beziehungsweise aufgezeichnet werden !!O!!
+d) Das „Gespräch“ ist ein formloser, unmittelbarer Informationsaustausch  !!X!!
+e) Der „Spruch“ ist eine formgebundene, schriftlich festgelegte Nachricht  !!X!!
+
+
+48 Eine orangenfarbige Warntafel zeigt die Gefahrnummer 856. Was liegt vor?
+
+a) Ätzender Stoff, brandfördernd und giftig  !!X!!
+b) Giftiger Stoff, brandfördernd und ätzend !!O!!
+c) Oxidierend wirkender Stoff, giftig und ätzend !!O!!
+
+
+49 Eine orangenfarbige Warntafel zeigt die Gefahrnummer X423. Was liegt vor?
+
+a) Entzündbarer fester Stoff, der mit Wasser gefährlich reagiert, wobei brennbare Gase entweichen  !!X!!
+b) Leicht entzündbare Flüssigkeit, mit Wasser gefährlich reagierend, dabei entweicht Gas !!O!!
+c) Fester Stoff, leicht entzündbar, bei Berührung mit Wasser entweicht Gas !!O!!
+
+
+50 Im „Hommel“ sehen Sie für einen Stoff im Gefahrendiamant im blauen Feld eine „3“. Was bedeutet dies?
+
+a) Starke Reaktionsgefahr !!O!!
+b) Vollschutzanzug erforderlich  !!X!!
+c) Sicherheitszone von mindestens 30 Meter bilden !!O!!
+d) Stoff ist „schwer entflammbar“ !!O!!
+e) Gesundheitsgefahr  !!X!!
+
+
+51 Eine Gaswolke (ätzende Gase) bildet sich im Freien aufgrund eines Lecks. Was tun Sie zuerst um die Bevölkerung zu schützen?
+
+a) Räumung der unmittelbar beaufschlagten Gebäude !!O!!
+b) Leck abdichten, damit nichts mehr austritt !!O!!
+c) Gaswolke mit Wasser eingrenzen beziehungsweise niederschlagen  !!X!!
+
+
+52 Meldung Verkehrsunfall! Sie kommen mit einem Löschgruppenfahrzeug LF 10 und Ihrer Löschgruppe an die Einsatzstelle. Ihre Erkundung hat ergeben, dass keine Person im unmittelbaren Bereich gefährdet ist. Auf einem kleinen Lastkraftwagen (drei Tonnen) liegen zerstörte Behälter (60 Liter). Die Kennzeichnung der Behälter nach Gefahrstoff-Verordnung (GefStoffV) ist ätzend. Welche Maßnahmen veranlassen Sie?
+
+a) Einsatzstelle großräumig (50 Meter) absichern  !!X!!
+b) Gase mit Sprühstrahl unter Atemschutz niederschlagen  !!X!!
+c) Lagemeldung abgeben und Gerätewagen Gefahrgut anfordern, Kreisbrandmeister verständigen  !!X!!
+d) Lagemeldung abgeben und Rüstwagen 2 anfordern, Transportfirma verständigen und Ersatzfahrzeug anfordern !!O!!
+e) Ausgelaufene Flüssigkeit mit viel Wasser (Verdünnungseffekt) ins Kanalrohr spülen !!O!!
+
+
+53 Welches Gefährlichkeitsmerkmal kann einem Stoff zugeordnet werden?
+
+a) Sehr giftig  !!X!!
+b) Ekelhaft riechend / spontan reagierend !!O!!
+c) Brandfördernd  !!X!!
+d) Krebserzeugend  !!X!!
+e) Explosionsgefährlich  !!X!!
+
+
+54 Woran erkennt man, ob ein unbekannter Stoff giftig ist?
+
+a) Die Giftigkeit ist nicht ohne weiteres erkennbar  !!X!!
+b) Durch den Einsatz von Prüfröhrchen !!O!!
+c) Mit Indikator-Papier (pH-Papier) !!O!!
+
+
+55 Die Dekontamination durch die Feuerwehr (Dekon) ist die Grobreinigung von Einsatzkräften einschließlich ihrer Schutzkleidung, von anderen Personen sowie von Geräten. Welche Aussage ist richtig?
+
+a) Der Dekon-Platz muss in spätestens 15 Minuten betriebsbereit sein   !!X!!
+b) Dekon-Stufe I = Notdekontamination von Personen  !!X!!
+c) Dekon-Stufe II = Standard-Dekontamination   !!X!!
+d) Dekon-Stufe III = Erweiterte Dekontamination im ABC-Einsatz   !!X!!
+e) Ein Dekon-Platz ist bei jedem ABC-Einsatz der Gefahrengruppe II und III einzurichten und abzugrenzen  !!X!!
+
+
+56 Was bedeutet die Abkürzung „TRGS“?
+
+a) Technische Regeln für Gefahrstoffe  !!X!!
+b) Transport-Richtlinie für Gerätewagen-Säure !!O!!
+c) Technisches Regelwerk für Gase und Säuren !!O!!
+
+
+57 Welche Aussage für Erdgas ist richtig?
+
+a) Erdgas ist leichter als Luft  !!X!!
+b) Erdgas ist gut riechbar !!O!!
+c) Erdgas ist eingeatmet ein Blutgift !!O!!
+
+
+58 Welche grundsätzlichen Schutzmaßnahmen sind beim Einsatz mit radioaktiven Stoffen zu beachten?
+
+a) Abstand halten (groß)  !!X!!
+b) Aufenthaltsdauer kurz  !!X!!
+c) Abschirmung ausnutzen  !!X!!
+d) Kontamination vermeiden  !!X!!
+e) Inkorporation vermeiden  !!X!!
+f) Radioaktiven Stoff mit viel Wasser kühlen !!O!!
+g) Radioaktiven Stoff aufnehmen !!O!!
+
+
+59 Welcher Abstand ist bis zur Festlegung der Absperrgrenze für nicht unmittelbar am Einsatz beteiligte Einsatzkräfte bei Unfällen mit radioaktiven Stoffen vom Schadensobjekt einzuhalten?
+
+a) 10 Meter !!O!!
+b) 25 Meter !!O!!
+c) 50 Meter  !!X!!
+
+
+60 Bereiche mit ABC-Gefahrstoffen werden bei der Einsatzvorbereitung entsprechend den auszuführenden Maßnahmen in drei Gefahrengruppen eingeteilt. Welche Zuordnung ist richtig?
+
+a) Gefahrengruppe I Bereiche, in denen die Einatzkräfte nur mit Sonderausrüstung und unter besonderer Überwachung und Dekontamination/Hygiene tätig werden dürfen !!O!!
+b) Gefahrengruppe II Bereiche, in denen die Einsatzkräfte ohne Sonderausrüstung tätig werden dürfen. Zur Vermeidung einer Inkorporation soll jedoch Atemschutz getragen werden !!O!!
+c) Gefahrengruppe III Bereiche, in denen Einsatzkräfte nur mit Sonderausrüstung und unter besonderer Überwachung und Dekontamination/Hygiene tätig werden dürfen und deren Eigenart die Anwesenheit einer fachkundigen Person notwendig macht, die während des Einsatzes die entstehende Gefährdung und die anzuwendenden Schutzmaßnahmen beurteilen kann !!X!!

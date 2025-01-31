@@ -1,0 +1,831 @@
+1 Wer ist nach dem Feuerwehrgesetz Baden-Württemberg für die Aufstellung, Ausrüstung und Unterhaltung der Feuerwehr verantwortlich?
+
+a) Bund !!O!!
+b) Land !!O!!
+c) Kreis !!O!!
+d) Gemeinde !!X!!
+e) Kommandant !!O!!
+
+
+2 Welches sind Rechtsgrundlagen der Feuerwehr?
+
+a) Bürgerliches Gesetzbuch !!O!!
+b) Feuerwehrgesetz Baden-Württemberg !!X!!
+c) Feuerwehrsatzung der Gemeinde !!X!!
+d) Landesverfassung Baden-Württemberg !!O!!
+
+
+3 Welche der nachfolgenden Aufgaben gehören nicht zu den Pflichtaufgaben der Feuerwehr?
+
+a) Bekämpfung von Schadenfeuer !!O!!
+b) Rettung von Menschen aus lebensbedrohlichen Lagen !!O!!
+c) Feuersicherheitsdienst !!X!!
+d) Hilfeleistung für Schiffe !!X!!
+
+
+4 Was gehört zu den Dienstpflichten eines ehrenamtlich tätigen Angehörigen der Gemeindefeuerwehr?
+
+a) Am Dienst einschließlich Aus- und Fortbildung regelmäßig und pünktlich teilnehmen !!X!!
+b) Den dienstlichen Weisungen des Vorgesetzten nachkommen !!X!!
+c) Bei Alarm unverzüglich zum Gerätehaus kommen !!X!!
+d) Die Feuerwehrdienst- und Unfallverhütungsvorschriften beachten !!X!!
+e) Die persönliche Ausrüstung pfleglich behandeln !!X!!
+
+
+5 Welches Wahlrecht hat ein aktiver Feuerwehrangehöriger nach dem Feuerwehrgesetz Baden-Württemberg?
+
+a) Wahl des Kommandanten und dessen Stellvertreter !!X!!
+b) Wahl des Zugführers !!O!!
+c) Wahl des Gruppenführers !!O!!
+d) Wahl der Mitglieder des Feuerwehrausschusses !!X!!
+e) Wahl des Jugendfeuerwehrwarts !!O!!
+f) Wahl des Gerätewarts !!O!!
+g) Wahl des Abteilungs-Kommandanten !!X!!
+h) Wahl des Unterkreisführers !!O!!
+
+
+6 Welche Pflichten obliegen der Bevölkerung nach dem Feuerwehrgesetz Baden-Württemberg?
+
+a) Obdachlose aufnehmen !!O!!
+b) Meldepflicht !!X!!
+c) Hilfeleistungspflicht !!X!!
+d) Keine Pflichten, nur die Feuerwehr !!O!!
+e) Bei Sirenenalarm Radio einschalten !!O!!
+
+
+7 Wo ist der friedensmäßige Katastrophenschutz in Baden-Württemberg geregelt?
+
+a) Im Feuerwehrgesetz Baden-Württemberg (FWG) !!O!!
+b) Im Landeskatastrophenschutzgesetz (LKatSG) !!X!!
+c) Im Gesetz über die Erweiterung des Katastrophenschutzgesetzes !!O!!
+
+
+8 Welche Aufgaben können von der Feuerwehr im Katastrophenschutz übernommen werden?
+
+a) Sanitätsdienst !!O!!
+b) ABC-Dienst !!X!!
+c) Versorgungsdienst !!O!!
+d) Brandschutzdienst !!X!!
+e) Instandsetzungsdienst !!O!!
+f) Veterinärdienst !!O!!
+g) Fernmeldedienst !!X!!
+
+
+9 Wie werden Einheiten in der Feuerwehr bezeichnet?
+
+a) Trupp !!X!!
+b) Feuerwehr-Kompanie !!O!!
+c) Zug !!X!!
+d) Staffel !!X!!
+e) Maschinist !!O!!
+f) Gruppenführer !!O!!
+g) Gruppe !!X!!
+h) Verband !!X!!
+
+
+10 Farbige Westen kennzeichnen die verschiedenen Führungsebenen im Feuerwehreinsatz. Welche der folgenden Kombinationen ist richtig?
+
+a) Einsatzleiter = gelb; Fahrzeugführer = grün; Abschnittsleiter = weiß !!O!!
+b) Fahrzeugführer = blau; Einsatzleiter = rot; Abschnittsleiter = gelb !!O!!
+c) Fahrzeugführer = blau; Abschnittsleiter = weiß; Einsatzleiter = gelb !!X!!
+
+
+11 Woraus ergeben sich die Ausbildungsrichtlinien für Freiwillige Feuerwehren?
+
+a) Feuerwehrgesetz Baden-Württemberg !!X!!
+b) Unfallverhütungsvorschrift „Feuerwehr“ !!X!!
+c) Normblätter !!O!!
+d) Feuerwehr-Dienstvorschriften !!X!!
+e) Regelwerk des Gemeindeunfallversicherungsverbands !!O!!
+f) Straßenverkehrsrecht !!O!!
+
+
+12 Wie erkennen Sie, dass der Gruppenführer einen Einsatz ohne Bereitstellung durchführen will?
+
+a) Durch Angabe der Wasserentnahmestelle !!O!!
+b) An der Lage des Verteilers !!O!!
+c) Durch die Worte „zum Einsatz fertig“ !!O!!
+d) Durch das Wort „vor“ !!X!!
+
+
+13 Welche Aufgaben hat der Angriffstrupp innerhalb der Löschgruppe?
+
+a) Er ist verantwortlich für die Wasserversorgung zwischen Verteiler und den Strahlrohren !!O!!
+b) Er rettet; insbesondere aus Bereichen, die nur mit Atemschutzgeräten betreten werden können, er nimmt das erste Rohr vor, er setzt den Verteiler !!X!!
+c) Er ist für die Verkehrssicherung verantwortlich !!O!!
+d) Er bringt grundsätzlich mit dem Melder die tragbaren Leitern in Stellung !!O!!
+
+
+14 Welche Aufgabe hat der Melder innerhalb der Löschgruppe?
+
+a) Er bedient grundsätzlich den Verteiler !!O!!
+b) Er bildet mit dem Maschinisten einen Trupp !!O!!
+c) Er übernimmt befohlene Aufgaben, z.B. Übermittlung von Nachrichten (Befehle, Lagemeldungen), Betreuung von Personen !!X!!
+d) Er wird innerhalb der Löschgruppe nur bei der Vornahme der Steckleiter eingesetzt !!O!!
+e) Er ist als freier Mann in erster Linie verantwortlich für die Versorgung von Verletzten !!O!!
+
+
+15 Untrügliches Zeichen dafür, dass das Löschmittel Wasser seine Wirkung getan hat, ist die Dampfbildung über dem Brandherd. Es gilt „Wasser halt!“, wenn:
+
+a) Sich weder Rauch noch Dampf mehr über dem Brandherd bildet !!O!!
+b) Eine deutlich erkennbare Wasserschicht über dem brennbaren Material aufgebracht wurde !!O!!
+c) Kein dunkler Rauch, sondern nunmehr weißer Wasserdampf über dem Brandherd aufsteigt !!X!!
+d) Die Rauchbildung deutlich nachgelassen hat !!O!!
+
+
+16 In welcher Bandlage und Verkehrsart wird in Baden-Württemberg der Funkverkehr bei den Feuerwehren im 2 m Bereich durchgeführt?
+
+a) Gegenverkehr / Oberband !!O!!
+b) Wechselverkehr / Unterband !!X!!
+c) Wechselverkehr / Oberband !!O!!
+
+
+17 Wie viel Feuerwehrangehörige müssen ein B-Strahlrohr (fünf bis sechs bar) mit Stützkrümmer im Einsatz und bei Übungen halten?
+
+a) Zwei !!X!!
+b) Drei !!O!!
+c) Nicht vorgeschrieben !!O!!
+
+
+18 Welche Aufgaben müssen bei Feuersicherheitswachen wahrgenommen werden?
+
+a) Kontrolle, dass Flächen und Zufahrten für Feuerwehrfahrzeuge frei sind !!X!!
+b) Rettungswege freihalten !!X!!
+c) Streitigkeiten von Festteilnehmern schlichten / verbieten !!O!!
+d) Notbeleuchtung bei Ausfall reparieren !!O!!
+e) Funk- beziehungsweise Telefonverbindung zur Feuerwehrleitstelle überprüfen !!X!!
+
+
+19 Der Sprechfunk wird durch den Anruf eröffnet: Welche Reihenfolge ist richtig?
+
+a) - Rufnamen/-zeichen der Gegenstelle(n)- Wort „von“- Eigener Rufnamen/-zeichen- Aufforderung „kommen“ !!X!!
+b) - Rufnamen/-zeichen der Gegenstelle(n)- Aufforderung „kommen Sie“- Wort „für“- Eigener Rufnamen/-zeichen !!O!!
+
+
+20 Welche Grundsätze sind bei der Abwicklung des Sprechfunkverkehrs zu beachten?
+
+a) Teilnehmer mit Sie anreden !!X!!
+b) Schnell sprechen, damit das Funkgespräch kurz ist !!O!!
+c) Zahlen unverwechselbar aussprechen !!X!!
+d) Deutlich und nicht zu schnell sprechen !!X!!
+e) Abkürzungen (z.B. TSF-W) benutzen, damit Funkkanal schneller frei wird !!O!!
+f) Schwer verständliche Wort gegebenenfalls buchstabieren !!X!!
+g) Strenge Funkdisziplin einhalten !!X!!
+h) Höflichkeitsformeln unterlassen !!X!!
+i) Laut sprechen, damit Nebengeräusche unterdrückt werden !!O!!
+j) Personennamen nur in begründeten Fällen nennen !!X!!
+
+
+21 Mit welchen Knoten soll eine Schlauchleitung mit Strahlrohr festgebunden werden, um sie in ein Obergeschoss hochzuziehen?
+
+a) Zimmermannschlag !!O!!
+b) Halbschlag !!O!!
+c) Doppelschlinge und Halbschlag !!X!!
+d) Schotenstich und Halbschlag !!O!!
+e) Mastwurf und Halbschlag !!X!!
+f) Pfahlstich !!O!!
+
+
+22 Zur Rettung und Sicherung von Personen wird ein Brustbund angelegt. Welche Knoten / Stiche werden zur Sicherung verwendet?
+
+a) Zimmermannschlag !!O!!
+b) Doppelschlinge !!O!!
+c) Schotenstich !!O!!
+d) Pfahlstich und Spierenstich !!X!!
+
+
+23 Welche Knoten und Stiche müssen entsprechend der Richtlinie für die Leistungsübung Silber beim Verlegen der Saugleitung verwendet werden?
+
+a) Pfahlstich !!O!!
+b) Schotenstich !!O!!
+c) Mastwurf !!X!!
+d) Halbschlag !!X!!
+e) Zimmermannschlag !!X!!
+f) Doppelschlinge !!O!!
+
+
+24 Welche Aussage ich richtig?
+
+a) Gefahren durch Atemgifte bestehen nur in geschlossenen Räumen !!O!!
+b) Bei Nachlöscharbeiten muss Atemschutz getragen werden !!X!!
+c) Stickgase sind mit den menschlichen Sinnen wahrnehmbar !!O!!
+d) Filtergeräte nur im Freien einsetzen !!O!!
+
+
+25 Wie viel Atemschutzgeräteträger müssen mindestens zur Verfügung stehen, wenn ein Atemschutztrupp eingesetzt werden muss?
+
+a) Zwei (ohne Sicherheitstrupp) !!X!!
+b) Drei !!O!!
+c) Vier !!O!!
+d) zwei im Einsatz, zwei als Sicherheitstrupp !!X!!
+
+
+26 Wie kann ein Feuerwehrangehöriger Sauerstoffmangel bei einem Brand wahrnehmen, beziehungsweise erkennen?
+
+a) Er kann es nicht wahrnehmen !!X!!
+b) Er wird müde !!O!!
+c) Durch stechenden Geruch !!O!!
+
+
+27 Wie ist die prozentuale Zusammensetzung der Einatemluft?
+
+a) Sauerstoff 17 % !!O!!
+b) Sauerstoff 21 % !!X!!
+c) Stickstoff 78 % !!X!!
+d) Stickstoff 4 % !!O!!
+e) Kohlenstoffdioxid 0,04 % !!X!!
+f) Kohlenstoffmonoxid 4 % !!O!!
+g) Edelgase u.a. 0,96 % !!X!!
+
+
+28 Wie prüft man eine Atemschutzmaske auf Dichtigkeit vor dem Einsatz?
+
+a) Da die Atemschutzmaske in der Atemschutzwerkstatt geprüft wurde, ist dies vor dem Einsatz nicht mehr erforderlich !!O!!
+b) Durch Sichtprüfung !!O!!
+c) Lungenautomat anschrauben, beide Flaschen schließen und Maskeninnenraum leer atmen !!O!!
+d) Maske aufsetzen und Gummibänder anziehen, danach mit Handfläche Anschlussstück verschließen, tief einatmen, Maske muss ans Gesicht angezogen werden !!X!!
+
+
+29 Wie kann ein Feuerwehrangehöriger die Anzeichen eines Schocks bei einem Verunfallten erkennen?
+
+a) Frieren, zittern !!X!!
+b) Kalter Schweiß, kalte feuchte Haut !!X!!
+c) Auffallende Unruhe, nicht der Situation entsprechende Reaktionen !!X!!
+d) Heiterkeit, lässige Art !!O!!
+e) Durch Angabe von Angstgefühl des Verunfallten !!X!!
+f) Durch schneller und schwächer werdenden Puls !!X!!
+
+
+30 Welche Maßnahmen sind eventuell von einem Feuerwehrangehörigen zu ergreifen, um einem Schock-Verletzten zu helfen?
+
+a) Blutstillung !!X!!
+b) Schock-Lagerung !!X!!
+c) Wärmeerhaltung !!X!!
+d) Notruf veranlassen !!X!!
+e) Infusion vorbereiten !!O!!
+f) Führen eines Überwachungsbogens !!O!!
+g) Überwachung von Puls, Blutdruck, Atmung und Bewusstseinslage !!X!!
+h) Verletzten cirka 200 Meter vom Unfallort entfernen und durch Gespräche ablenken !!O!!
+i) Schock-Verletzten durch „Nichtbeachtung“ beruhigen lassen !!O!!
+
+
+31 Sie treffen an einer Einsatzstelle eine bewusstlose Person an. Welche Maßnahmen sind zu ergreifen?
+
+a) Herz-Lungen-Wiederbelebung durchführen !!O!!
+b) Rettung aus dem Gefahrenbereich !!X!!
+c) Verletzten in stabile Seitenlage bringen !!X!!
+d) Notruf veranlassen / Rettungsdienst anfordern  !!X!!
+e) Atmung und Kreislauf kontrollieren !!X!!
+f) Person gegen Auskühlung schützen !!X!!
+g) Der Person zur Beruhigung etwas zu trinken geben !!O!!
+h) Person auf eventuelle Knochenbrüche untersuchen !!O!!
+
+
+32 Welche Maßnahmen sollen bei Personen mit Brandverletzungen durchgeführt werden?
+
+a) Verbrannte Körperteile gründlich mit Mehl bestäuben !!O!!
+b) Verbrannte Körperteile mit Körperschutz-Öl bedecken !!O!!
+c) Verbrennungen an Armen und Beinen mit viel Wasser drucklos behandeln !!X!!
+d) Atmung und Kreislauf überwachen !!X!!
+e) Person durch Bewegung bei Bewusstsein halten !!O!!
+f) Notruf durchführen !!X!!
+g) Verbrannte Körperteile mit Brandwundenverbandstuch abdecken !!X!!
+h) Anklebende Kleidungsstücke entfernen, um Infektion zu vermeiden !!O!!
+
+
+33 Welche Maßnahmen sind bei starken Blutungen, zum Beispiel aus Armen oder Beinen durchzuführen?
+
+a) Sofort verletzte Körperteile abbinden !!O!!
+b) Sterile Wundbedeckung auflegen !!X!!
+c) Mit Verbandspäckchen Kompressionsverband anlegen !!X!!
+d) Oberkörper hoch lagern !!O!!
+e) Verletztes Körperteil hoch lagern !!X!!
+f) An geeigneter Stelle Blutgefäß abdrücken, bis Druckverband angelegt ist !!X!!
+
+
+34 Welche spezielle und persönliche Schutzausrüstung muss je nach Lage und Aufgabe getragen werden?
+
+a) Feuerwehr-Sicherheitsschuhwerk !!X!!
+b) Atemschutzgerät !!X!!
+c) Beleuchtungsgerät !!O!!
+d) Feuerwehrhelm mit Nackenschutz !!X!!
+e) Feuerwehr-Schutzanzug !!X!!
+f) Handsprechfunkgerät !!O!!
+g) Feuerwehr-Haltegurt mit Feuerwehrbeil !!X!!
+h) Feuerwehr-Schutzhandschuhe !!X!!
+
+
+35 Welches Gerät muss der Angriffstrupp beim Schaumrohr-Einsatz mit vornehmen?
+
+a) Truppführer - Zumischer und D-Ansaugschlauch Truppmann - Schaumrohr !!O!!
+b) Truppführer - Zumischer, Schaumrohr und D-Ansaugschlauch Truppmann - zwei Schaummittelbehälter !!O!!
+c) Truppführer - zwei Schaummittelbehälter und D-Ansaugschlauch Truppmann - Schaumrohr und Zumischer !!X!!
+
+
+36 Welche Warnausrüstungen werden im Allgemeinen zur Einsatzstellen- Absicherung verwendet?
+
+a) Elektronenblitz-Warngerät !!X!!
+b) Verkehrsleitkegel mit Reflex-Folie !!X!!
+c) Verkehrszeichen „Gefahrstelle“ !!O!!
+d) Warndreieck, Winkerkelle beleuchtet !!X!!
+e) Warnflagge, Warnleuchte !!X!!
+f) Leitbake (Warnbake) !!O!!
+g) Signalleine !!O!!
+h) Absperrleine (Flatterleine) !!X!!
+
+
+37 Was müssen Sie beachten bei der Benutzung beziehungsweise beim In-Stellung-Bringen von tragbaren Leitern?
+
+a) Fester Untergrund !!X!!
+b) Anstellwinkel 55° bis 60° !!O!!
+c) Leiterspitze cirka ein Meter über die Brüstung !!X!!
+d) Abstand des Fußteils cirka vier Meter von der Wand !!O!!
+e) Haken- und Klappleitern dürfen nur von einer Person bestiegen werden !!X!!
+f) Bei Schiebleitern die Fallhaken auf richtigen Sitz prüfen !!X!!
+g) Anstellwinkel bei Steckleitern cirka 68° bis 75° !!X!!
+h) Leitern mit Stützstangen dürfen im Freistand nur drei Meter über die Stützen hinaus bestiegen werden !!O!!
+
+
+38 Welche Leiter führt ein Löschgruppenfahrzeug LF 10/6 nach Norm mit sich?
+
+a) Steckleiter 2-teilig !!O!!
+b) Steckleiter 4-teilig !!X!!
+c) Schiebleiter 3-teilig !!O!!
+d) Hakenleiter !!O!!
+e) Klappleiter !!O!!
+f) Strickleiter !!O!!
+
+
+39 Wie viel Feuerwehrangehörige (ohne Maschinist) werden benötigt, um eine 4-teilige Steckleiter nach Feuerwehr-Dienstvorschrift 10 „Tragbare Leitern“ in Stellung zu bringen?
+
+a) Zwei Personen !!O!!
+b) Drei Personen !!X!!
+c) Drei oder vier Personen !!X!!
+d) Vier Personen !!X!!
+e) Staffelbesatzung !!O!!
+
+
+40 Druckschläuche zur Förderung von Wasser sind genormt. Bezüglich der Maße sind welche Aussagen richtig?
+
+a) Druckschlauch D = 5 m lang, Ø 25 mm !!X!!
+b) Druckschlauch D = 20 m lang, Ø 25 mm !!O!!
+c) Druckschlauch C = 15 m lang, Ø 42 mm !!X!!
+d) Druckschlauch C = 15 m lang, Ø 52 mm !!X!!
+e) Druckschlauch C = 30 m lang, Ø 42 mm !!X!!
+f) Druckschlauch B = 5 m lang, Ø 75 mm !!X!!
+g) Druckschlauch B = 15 m lang, Ø 75 mm !!O!!
+h) Druckschlauch B = 20 m lang, Ø 75 mm !!X!!
+i) Druckschlauch A = 10 m lang, Ø 100 mm !!O!!
+j) Druckschlauch A = 20 m lang, Ø 110 mm !!X!!
+
+
+41 Welche der folgenden Armaturen gehören zur Gruppe: „Armaturen zur Wasserfortleitung“?
+
+a) Stützkrümmer !!O!!
+b) Kupplungen !!X!!
+c) Druckbegrenzungsventil !!X!!
+d) Standrohr !!O!!
+e) Verteiler !!X!!
+f) Sammelstück !!X!!
+
+
+42 An welchem Abgang wird ein Sonderrohr am Verteiler angekuppelt?
+
+a) Links !!O!!
+b) Rechts !!O!!
+c) Mitte !!X!!
+d) Wird separat verlegt und nicht am Verteiler angekuppelt !!O!!
+
+
+43 Wie ist die sinnvolle Verlegerichtung von Druckschläuchen aus Schlauchtragekörben?
+
+a) wird Leitung von anderem Trupp verlegt - vom Strahlrohr in Richtung Verteiler !!X!!
+b) legt der Trupp die Leitung selbst - vom Verteiler in Richtung Strahlrohr !!X!!
+c) nicht vorgeschrieben !!O!!
+
+
+44 Bei tragbaren Schaumstrahlrohren und -geräten kommen als Verschäumungsbereiche in Betracht:
+
+a) Schwerschaum = Verschäumungszahl 4 bis 20 !!X!!
+b) Mittelschaum = Verschäumungszahl über 20 bis 200 !!X!!
+c) Leichtschaum = Verschäumungszahl über 20 bis 1000 !!O!!
+d) Mittelschaum = Verschäumungszahl über 20 bis 1000 !!O!!
+e) Schwerschaum = Verschäumungszahl 10 bis 50 !!O!!
+
+
+45 Wie lautet das „Hebel-Gesetz“?
+
+a) Kraft x Kraftarm = Last x Lastarm !!X!!
+b) Last x Lastarm = Last x Kraftarm !!O!!
+c) Kraft x Weg = Last x Zeit !!O!!
+d) Ein Hebel ist im Gleichgewicht, wenn alle linksdrehenden Momente so groß sind wie alle rechtsdrehenden !!X!!
+
+
+46 Bei welcher Rolle wird der für die Bewegung erforderliche Kraftaufwand um die Hälfte vermindert?
+
+a) Feste Rolle !!O!!
+b) Lose Rolle !!X!!
+c) Mehrere Rollen !!O!!
+
+
+47 Was ist eine Verbrennung?
+
+a) Eine Naturerscheinung !!O!!
+b) Eine physikalische Zersetzung !!O!!
+c) Ein chemisch-physikalischer Vorgang !!X!!
+
+
+48 Welche Grundvoraussetzungen müssen für eine Verbrennung vorhanden sein?
+
+a) Brennbarer Stoff !!X!!
+b) Sauerstoff !!X!!
+c) Richtiges Mischungsverhältnis zwischen brennbarem Stoff und Sauerstoff !!X!!
+d) Zündenergie !!X!!
+e) Glimmtemperatur !!O!!
+f) Verbrennungstemperatur !!O!!
+g) Obere Explosionsgrenze !!O!!
+h) Flammpunkt !!O!!
+
+
+49 Brennbare Stoffe sind nach ihrem Aggregatzustand und Brandverhalten in Brandklassen eingeteilt. Welche Aussage ist richtig?
+
+a) Brandklasse A = feste brennbare Stoffe !!X!!
+b) Brandklasse A = Flüssigkeiten mit Flammpunkt kleiner 21° C !!O!! nicht wasserlöslich
+c) Brandklasse B = alle brennbare wasserlöslichen Flüssigkeiten !!O!!
+d) Brandklasse B = flüssige brennbare Stoffe !!X!!
+e) Brandklasse B = flüssig werdende, abtropfende brennbare Kunststoffe !!O!!
+f) Brandklasse C = alle brennbaren Kohlenwasserstoffe !!O!!
+g) Brandklasse C = gasförmige brennbare Stoffe !!X!!
+h) Brandklasse D = brennbare Metalle !!X!!
+i) Brandklasse F = Speiseöle und -fette !!X!!
+
+
+50 Welche Hauptlöscheffekte kennen Sie?
+
+a) Stickeffekt !!X!!
+b) Knalleffekt !!O!!
+c) Mischeffekt !!O!!
+d) Kühleffekt !!X!!
+e) Verschäumungseffekt !!O!!
+f) Druckeffekt !!O!!
+g) Inhibitionseffekt (antikatalytischer Löscheffekt) !!X!!
+
+
+51 Welche der nachfolgenden Aussagen ist richtig? Aus einem Liter Wasser können bei vollständigem Verdampfen entstehen:
+
+a) 1.000 Liter Wasserdampf !!O!!
+b) 1.500 Liter Wasserdampf !!O!!
+c) 1.700 Liter Wasserdampf !!X!!
+d) 2.000 Liter Wasserdampf !!O!!
+e) Wasser lässt sich nicht vollständig verdampfen !!O!!
+
+
+52 Welches der nachfolgenden Gase beziehungsweise Dämpfe hat den größten Zündbereich?
+
+a) Propan !!O!!
+b) Methan !!O!!
+c) Benzindämpfe !!O!!
+d) Acetylen !!X!!
+e) Benzoldämpfe !!O!!
+f) Alkoholdämpfe !!O!!
+g) Kohlenstoffmonoxid !!O!!
+
+
+53 Welcher Stoff gehört in welche Brandklasse?
+
+a) Gummi Brandklasse C !!O!!
+b) Koks Brandklasse A !!X!!
+c) Wasserstoff Brandklasse C !!X!!
+d) Propan Brandklasse B !!O!!
+e) Alkohol Brandklasse A !!O!!
+f) Aluminium Brandklasse D !!X!!
+g) Polyvynilchlorid Brandklasse E !!O!!
+
+
+54 Welche Auswirkung kann Wärme auf Stoffe bei einem Brand hervorrufen?
+
+a) Änderung des Aggregatzustandes !!X!!
+b) Ausdehnung des Stoffes !!X!!
+c) Änderung der Temperatur !!X!!
+d) Änderung der Festigkeit !!X!!
+e) Zerstörung der Moleküle !!X!!
+f) Druckanstieg in Behältern !!X!!
+
+
+55 Wie kann Wärme übertragen werden?
+
+a) Wärmeleitung !!X!!
+b) Flugfeuer !!O!!
+c) Wärmeströmung !!X!!
+d) Wärmestrahlung !!X!!
+
+
+56 Welches giftige Gas entsteht hauptsächlich bei einer unvollkommenen Verbrennung und wie ist die chemische Formel des Gases?
+
+a) Stickoxid !!O!!
+b) Kohlenstoffdioxid !!O!!
+c) Kohlenstoffmonoxid !!X!!
+d) Polyvinylchlorid !!O!!
+e) CO2 !!O!!
+f) H2SO4 !!O!!
+g) CO !!X!!
+h) HCl !!O!!
+
+
+57 Druckgasflaschen werden ihrem Inhalt entsprechend durch Farben gekennzeichnet. Welches Gas ist in roten Druckgasflaschen?
+
+a) Sauerstoff !!O!!
+b) Acetylen !!O!!
+c) Kohlenstoffdioxid !!O!!
+d) Propan / Butan !!O!!
+e) Wasserstoff !!X!!
+f) Atemluft !!O!!
+
+
+58 Druckgasflaschen haben je nach Inhalt verschiedene Anschlüsse. Welches Gas wird über Manometer mit Bügelanschluss entnommen?
+
+a) Kohlenstoffmonoxid !!O!!
+b) Kohlenstoffdioxid !!O!!
+c) Sauerstoff !!O!!
+d) Stickstoff !!O!!
+e) Acetylen !!X!!
+f) Propan / Butan !!O!!
+
+
+59 Was verstehen Sie unter Wärmestrahlung?
+
+a) Wärmestrahlung ist nur innerhalb eines Stoffes möglich !!O!!
+b) Wärmestrahlung ist eine elektromagnetische Welle !!X!!
+c) Wärmestrahlung ist in Wirkung an ein Medium gebunden !!O!!
+d) Wärmestrahlung ist nur bei Glutbränden möglich !!O!!
+
+
+60 Welche Arten von Schaummitteln führt die Feuerwehr in der Regel auf ihren Löschfahrzeugen mit?
+
+a) Mehrbereichsschaummittel !!X!!
+b) Sonderschaummittel !!O!!
+c) Proteinschaummittel !!O!!
+d) Leichtschaummittel !!O!!
+
+
+61 Welche Verschäumungen (Mehrbereichsschaummittel) können nicht mit einem tragbaren Schaumstrahlrohr hergestellt werden?
+
+a) Schwerschaum !!O!!
+b) Mittelschaum !!O!!
+c) Leichtschaum !!X!!
+
+
+62 Was müssen Sie beim Einsatz bei Metallbränden beachten?
+
+a) Löschmittel mit hohem Druck aufbringen !!O!!
+b) Nur Kohlenstoffdioxidlöscher verwenden !!O!!
+c) Kein Wasser als Löschmittel verwenden !!X!!
+d) Metallbrandpulver drucklos aufbringen !!X!!
+e) mit reichlich Salz Metallbrand abdecken !!X!!
+
+
+63 Welcher Sicherheitsabstand muss von einer elektrischen Anlage (15.000 Volt) mit einem C-Strahlrohr (Sprühstrahl, Mundstücksdurchmesser 12 mm, Druck 5 bar) eingehalten werden?
+
+a) Ein Meter !!O!!
+b) Drei Meter !!O!!
+c) Fünf Meter !!X!!
+d) Zehn Meter !!O!!
+
+
+64 Welche Einsatzgrundsätze sind richtig?
+
+a) Menschen- und Tierrettung vor Brandbekämpfung !!X!!
+b) Außenangriff ist die Regel, damit niemand gefährdet wird !!O!!
+c) Bei Innenangriff ist Vollstrahl richtig, da die Wurfweite des Löschstrahls erhöht wird !!O!!
+d) Brandbekämpfung gegen den Wind (Ausnahme mit Pulver-Löscher) !!X!!
+e) In einen Brandraum erst eindringen, wenn Wasser am Strahlrohr vorhanden ist !!X!!
+f) Türen zu geschlossenen Brandräumen nur unter Schutz in gebückter Haltung öffnen !!X!!
+g) Türen zu geschlossenen Brandräumen dürfen nicht geöffnet werden, da Brandausbreitung in den Flur besteht !!O!!
+
+
+65 Durch welche Ursachen können Einstürze entstehen?
+
+a) Abbrand von Baustoffen !!X!!
+b) Lockerung des Baugefüges !!X!!
+c) Abplatzen von Natursteinen durch Wärmeeinwirkung !!X!!
+d) Explosionen !!X!!
+e) Längenänderungen von Bauteilen !!X!!
+
+
+66 Auf einer Karte mit Maßstab 1 : 50.000 ist ein Objekt zwei Zentimeter lang. Wie lang ist dieses Objekt in der Wirklichkeit?
+
+a) 100 Meter !!O!!
+b) 500 Meter !!O!!
+c) 1000 Meter !!X!!
+
+
+67 Wie lange sind die Seiten eines Planquadrates beim Maßstab 1: 50.000?
+
+a) Zwei Zentimeter !!X!!
+b) Vier Zentimeter !!O!!
+c) Acht Zentimeter !!O!!
+
+
+68 Mit welchen Hilfsmitteln können Koordinaten festgelegt werden?
+
+a) Planzeiger !!X!!
+b) Kompass !!O!!
+c) Lineal !!X!!
+d) Winkelmesser !!O!!
+e) Zirkel !!O!!
+
+
+69 Nennen Sie Vorteile des Unterflurhydranten!
+
+a) Geringere Anschaffungskosten als ein Überflurhydrant !!X!!
+b) Leichtes Auffinden (auch bei Schnee und Dunkelheit) !!O!!
+c) Behinderung des Verkehrs !!O!!
+
+
+70 Nennen Sie Vorteile des Überflurhydranten!
+
+a) Schnelle Einsatzmöglichkeit !!X!!
+b) Leichtes Auffinden (auch bei Dunkelheit oder Schnee) !!X!!
+c) Geringere Anschaffungskosten als ein Unterflurhydrant !!O!!
+d) Keine Behinderung des Verkehrs !!O!!
+
+
+71 Welche Arten von Hydranten kennen Sie und für welche Zwecke können sie benutzt werden?
+
+a) Unterflurhydranten !!X!!
+b) Überflurhydranten !!X!!
+c) Schachthydranten (württ. Unterflurhydranten) !!X!!
+d) Entnahme von Löschwasser !!X!!
+
+
+72 Welche Bedeutung haben orangefarbene Warntafeln an Lastkraftwagen oder Tankkesselwagen?
+
+a) Es wird Abfall transportiert !!O!!
+b) Es wird kein Gefahrgut transportiert !!O!!
+c) Es wird Gefahrgut im Sinne der Gefahrgutverordnung Straße (GGVSEB) transportiert  !!X!!
+d) Es wird nur Gefahrgut transportiert, wenn die Warntafeln mit Zahlen versehen sind !!O!!
+
+
+73 Welche Bedeutung haben Zahlen und eventuell ein Buchstabe auf orangefarbenen Warntafeln an Fahrzeugen?
+
+a) Obere Nummer dient zur Kennzeichnung der Gefahr !!X!!
+b) Untere Nummer dient zur Kennzeichnung des Stoffs !!X!!
+c) Untere Nummer ist die Stoff-Nummer oder so genannte UN-Nummer !!X!!
+d) Ein !!X!! vor der Gefahr-Nummer bedeutet, dass kein Wasser zum Löschen verwendet werden darf !!X!!
+
+
+74 Wer ist für eine ausreichende Löschwasserversorgung verantwortlich?
+
+a) Gebäude-Brandversicherung !!O!!
+b) Kommandant !!O!!
+c) Gemeinde !!X!!
+d) Landkreis !!O!!
+
+
+75 Welche Arten von Kennzeichnungen beziehungsweise Begleitpapieren können auf einen Gefahrgut-Transport hinweisen?
+
+a) Orangefarbene Warntafeln mit und ohne Zahlen !!X!!
+b) Gefahrzettel nach Gefahrgut-Verordnung-Straße (GGVSEB)  !!X!!
+c) Frachtbrief !!X!!
+d) Fahrzeugbeschriftung (z. B. „Mineralölhandel XY“) !!X!!
+e) Unfall-Merkblatt nach GGVSEB !!X!!
+f) Blaue und grüne Drapierung von Militär-Fahrzeugen !!O!!
+g) Gefahrensymbol und Gefahrenbezeichnungen nach Gefahrstoffverordnung (GefStoffV) !!X!!
+
+
+76 In einem Betrieb sehen Sie ein Behältnis mit einem Totenkopf als Gefahren- Symbol. Welche Gefahrenbezeichnung hat dieses Symbol in Bezug auf den Inhalt nach der Gefahrstoff-Verordnung?
+
+a) Stark ätzend !!O!!
+b) Gesundheitsschädlich !!O!!
+c) Giftig oder sehr giftig !!X!!
+d) Explosionsgefährlich !!O!!
+e) Krebserzeugend !!O!!
+f) Erbgutverändernd !!O!!
+
+
+77 Wie verhalten Sie sich als Angriffstrupp im Innenangriff, wenn brennende Behältnisse mit Gefahrensymbole angetroffen werden?
+
+a) Sie löschen sofort die Gefahrstoffe !!O!!
+b) Sie melden die Art der Gefahrstoffe !!X!!
+c) Sie beschreiben die Gefahrensymbole !!X!!
+d) Sie treten sofort den Rückzug an !!O!!
+e) Sie schalten sofort von Sprühstrahl auf Vollstrahl um !!O!!
+f) Sie geben sofort eine Lagemeldung ab !!X!!
+g) Sie warten auf Anweisungen !!X!!
+h) Sie kühlen sofort !!O!!
+i) Sie begeben sich in Deckung !!X!!
+j) Sie schätzen die Situation als besondere Gefahr ein !!X!!
+
+
+78 Was bedeutet im Sinne der FwDV die so genannte „GAMS-Regel“?
+
+a) „G“ steht für - Gefahr erkennen !!X!!
+b) „A“ steht für - Absperren !!X!!
+c) „M“ steht für - Menschenrettung durchführen !!X!!
+d) „S“ steht für - Spezialkräfte alarmieren !!X!!
+e) Es gibt keine „GAMS-Regel“ !!O!!
+
+
+79 Was muss beim Heben von Lasten beachtet werden?
+
+a) Sich nicht unter der Last aufhalten !!X!!
+b) Angehobene Last sofort sichern !!O!!
+c) Bei Hydraulikhebern braucht die Last nicht gesichert werden !!O!!
+
+
+80 Können Sie an einem Tankfahrzeug mit orangefarbigen Warntafeln erkennen, ob der Tank beziehungsweise die Tankkammern leer sind?
+
+a) Ja, da bei leeren Tanks die orangefarbigen Warntafeln verdeckt sein müssen !!O!!
+b) Nein, in keinem Fall !!X!!
+c) Ja, da die orangefarbigen Warntafeln nur bei vollem Tank mit Gefahr-Nummern beziffert sind !!O!!
+
+
+81 Was beinhaltet die Sichtprüfung an hydraulischen Rettungsgeräten nach einem Einsatz?
+
+a) Zustand der Schläuche und Kupplungen !!X!!
+b) Riffelungen an den Spreizerspitzen !!X!!
+c) Öldruckkontrolle !!O!!
+d) Zustand der Ketten und Verbindungselemente !!X!!
+e) Zustand der Schneidmesser !!X!!
+f) FI-Schutzschalter überprüfen !!O!!
+g) Lagerbolzen der Spreizarme prüfen !!O!!
+h) Spreizarme ganz schließen und unter Druck abstellen !!O!!
+
+
+82 Was muss bei der Überdruckbelüftung beachtet werden?
+
+a) Es besteht die Gefahr, dass sich das Feuer durch den Luftstrom schnell ausbreitet !!X!!
+b) Die Luftaustrittsöffnung darf maximal 1,5fach so groß wie die Eintrittsöffnung sein !!X!!
+
+
+83 Was ist beim Einsatz mit hydraulischen Rettungsgeräten zu beachten?
+
+a) Nur ausgebildete Feuerwehrangehörige am Gerät einsetzen !!X!!
+b) Nach Möglichkeit Vorsatzschneidgerät benutzen !!O!!
+c) Keine losen Teile ungesichert abschneiden !!X!!
+d) Schneidgerät möglichst rechtwinklig am zu schneidenden Teil ansetzen !!X!!
+e) Schneidgerät möglichst im spitzen Winkel am zu schneidenden Teil ansetzen !!O!!
+f) Hydraulischer Spreizer möglichst erschütterungsfrei ansetzen !!X!!
+g) Windschutzscheibe nur mit Spreizerspitze zerstören !!O!!
+h) Gehärtete Teile (z.B. Lenksäule) nur mit Volllast abschneiden !!O!!
+
+
+84 Welche Arten von Trennschleifern gibt es und was muss im Einsatz aus Sicherheitsgründen beachtet werden?
+
+a) Motor- und Elektrotrennschleifer !!X!!
+b) Brandschutz sicherstellen !!X!!
+c) Trennscheibe mit geringer Drehzahl ansetzen !!O!!
+d) Trennrichtung bestimmen, bevor das Gerät angesetzt wird !!X!!
+e) Seitlicher Druck auf die Trennscheibe ist zu vermeiden !!X!!
+f) Trennscheibe vor Benutzung auf Elastizität prüfen !!O!!
+g) Trennscheiben sind für alle Materialien verwendbar !!O!!
+
+
+85 Wie ist zu reagieren, wenn ein Truppangehöriger im Innenangriff verunfallt und Verstärkung zur Rettung benötigt wird?
+
+a) Übernahme des Handsprechfunkgerätes !!X!!
+b) Druckkontrolle des eigenen Atemschutzgerät und des Atemschutzgerätes des Verunfallten !!X!!
+c) Notfallmeldung mit dem Kennwort: „Mayday“ per Funk eindeutig kennzeichnen !!X!!
+d) Den Verunfallten entlang der Rückwegsicherung retten !!X!!
+
+
+86 Welche Aufgaben sind dem Atemschutzgeräteträger zuzuordnen?
+
+a) Sicherstellung der Atemschutzüberwachung !!X!!
+b) Gerätesichtprüfung !!X!!
+c) Einsatzkurzprüfung vor dem Einsatz !!X!!
+d) Regelmäßige Prüfung des Luftvorrates während des Einsatzes !!X!!
+e) Beginn und Ende des Atemschutzeinsatzes bei der verantwortlichen Führungskraft melden !!X!!
+f) Veranlassung der Wartung des Atemschutzgerätes !!X!!
+g) Meldung festgestellter Mängel !!X!!
+
+
+87 Was ist bei der Suche nach vermissten Personen in verrauchten Räumen zu beachten?
+
+a) Sämtliche Fenster öffnen, um die Sichtbehinderung zu verringern !!X!!
+b) Systematische Suche in eine Richtung (links oder rechts) !!X!!
+c) In größeren Räumen eine fächerförmige Suche durchführen !!X!!
+d) Fenster geschlossen halten, um eine Brandausbreitung zu verhindern !!O!!
+e) Angriffsleitung vor dem Betreten des Raumes ablegen, um das Vorgehen und somit die Suche zu erleichtern !!O!!
+
+
+88 Welche Aussage ist richtig?
+
+a) Bei jedem Atemschutzeinsatz mit Isoliergeräten und bei jeder Übung mit Isoliergeräten muss grundsätzlich eine Atemschutzüberwachung durchgeführt werden. !!X!!
+b) Bei Übungen mit Isoliergeräten kann auf eine Atemschutzüberwachung verzichtet werden. !!O!!
+
+
+89 Wer ist Verantwortlich für die Atemschutzüberwachung?
+
+a) Verantwortliche Führungskraft im Einsatz !!X!!
+b) Gruppenführer !!X!!
+c) Staffelführer !!X!!
+d) Truppführer !!X!!
+
+
+90 Im Bereich der Absturzsicherung spricht man von „Halten“ und „Auffangen“. Wo liegt der Unterschied?
+
+a) Es gibt kein Unterschied !!O!!
+b) Der Unterschied liegt in den verwendeten Seilen Halten - Feuerwehrhalteleine; Auffangen - Kernmanteldynamikseil !!X!!
+c) Halten ist sichern an einer straff geführten Leine. Die Leine kommt immer von oberhalb der zu sichernden Person. Ein freier Fall ist auszuschließen !!X!!
+d) Auffangen ist sichern in Bereichen, in denen ein freier Fall nicht ausgeschlossen werden kann !!X!!

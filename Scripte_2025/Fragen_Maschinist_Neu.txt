@@ -1,0 +1,511 @@
+1 Auf was muss für die Betriebssicherheit an einem Feuerwehrfahrzeug geachtet werden?
+
+a) Wasser !!X!!
+b) Motorenöl !!X!!
+c) Beladung vollständig !!O!!
+d) Reifenluftdruck !!X!!
+e) Kraftstoff !!X!!
+f) Funkausrüstung !!O!!
+g) Elektrische Anlage !!X!!
+
+
+2 Wie groß soll der Elektrodenabstand bei der Zündkerze im Motor der Tragkraftspritze mit VW-Industriemotor sein und in welcher Stellung hat der Kraftstoffhahn nach beendetem Einsatz zu stehen?
+
+a) 0,6 bis 0,7 mm !!O!!
+b) 0,4 mm !!X!!
+c) Unter 0,2 mm !!O!!
+d) Auf !!X!!
+e) Zu !!O!!
+
+
+3 Auf was muss bei der Überprüfung der Verkehrssicherheit geachtet werden?
+
+a) Bremsen !!X!!
+b) Beleuchtung !!X!!
+c) Bereifung !!X!!
+d) Beladung !!X!!
+e) Nebenantrieb !!O!!
+f) Lenkung !!X!!
+g) Signal !!X!!
+h) Spiegel !!X!!
+i) Scheibenwischer !!X!!
+j) Kraftstoff !!O!!
+
+
+4 Welche der nachfolgenden Feuerwehr-Dienstvorschriften (FwDV) geben Hinweise auf die Aufgaben des Maschinisten?
+
+a) FwDV 3 Einheiten im Lösch- und Hilfeleistungseinsatz !!X!!
+b) FwDV 500 Einheiten im ABC-Einsatz !!O!!
+c) FwDV 10 Die tragbaren Leitern !!X!!
+d) FwDV 810.3 Sprechfunkdienst !!O!!
+e) FwDV 2 Ausbildung der Freiwilligen Feuerwehren !!X!!
+
+
+5 Was hat der Maschinist gemäß den Feuerwehr-Dienstvorschriften und den Richtlinien zur Durchführung der Leistungsübungen beim Einsatz in der Gruppe bei offener Wasserentnahme zu tun?
+
+a) Er hilft den Trupps beim Entnehmen der Geräte !!X!!
+b) Er legt Kupplungsschlüssel (falls erforderlich) Saugkorb, Saugschutzkorb sowie Halte- und Ventilleine bereit !!X!!
+c) Er kuppelt den Saugkorb an die Saugleitung an !!O!!
+d) Er kuppelt die Schlauchleitung an die Pumpe an und bedient die Pumpe !!X!!
+e) Er schlägt die Ventilleine im Bedienbereich der Pumpe und die Halteleine an einem festen Punkt an !!X!!
+
+
+6 Welche Wasserentnahmestellen erfordern ein Ansaugen des Wassers?
+
+a) Schachthydrant !!O!!
+b) Überflurhydrant !!O!!
+c) Unterflurhydrant !!O!!
+d) Löschteich !!X!!
+e) Unterirdischer Löschwasserbehälter !!X!!
+f) Löschwasserbrunnen S !!X!!
+
+
+7 Welche Einflüsse führen dazu, dass die theoretische Saughöhe von 10,33 Meter nicht erreicht werden kann?
+
+a) Luftdruck unter dem Normaldruck !!X!!
+b) Für das Fließen des Wassers im Saugschlauch wird Druck benötigt !!X!!
+c) Reibungs- und Strömungsverluste !!X!!
+d) Wasser ist schwerer als Luft !!O!!
+e) Entlüftungseinrichtungen erzeugen kein 100%iges Vakuum !!X!!
+
+
+8 Mit welchem Knoten wird die Halte- und Ventilleine entsprechend der Richtlinie zur Durchführung der Leistungsübungen an den Festpunkten angebracht?
+
+a) Doppelschlinge !!O!!
+b) Mastwurf !!X!!
+c) Zimmermannsschlag !!O!!
+d) Schotstich !!O!!
+e) Ankerstich !!O!!
+
+
+9 Welchen Ausgangsdruck soll der Maschinist in der Regel an der Feuerlöschkreiselpumpe einhalten?
+
+a) Fünf bis sechs bar bei kurzer Entfernung zur Einsatzstelle !!X!!
+b) Acht bar bei Wasserförderung über lange Wege !!X!!
+c) Acht bis zehn bar bei Erzeugung von Schwerschaum !!X!!
+
+
+10 Löschwasserbrunnen sind künstlich angelegte Entnahmestellen für Löschwasser aus dem Grundwasser. Für welchen Zeitraum muss die Ergiebigkeit mindestens gewährleistet sein?
+
+a) Eine Stunde !!O!!
+b) Drei Stunden !!X!!
+c) Gesamtdauer des Einsatzes !!O!!
+
+
+11 Was bedeutet bei einer Feuerlöschkreiselpumpe die 1. Ziffer in der Bezeichnung „FPN 10/1000“?
+
+a) Der Nennförderstrom ist 1000 Liter/Minute !!O!!
+b) Der Nennförderdruck ist 10 bar !!X!!
+c) Die Förderleistung ist 10 Kilowatt !!O!!
+
+
+12 Welche Aussage ist richtig?
+
+a) Die geodätische Saughöhe kann direkt am Eingangsmanometer der der Feuerlöschkreiselpumpe während der Wasserförderung abgelesen werden !!O!!
+b) Die geodätische Saughöhe ist der Höhenunterschied in Meter zwischen Pumpenmitte und saugseitigem Wasserspiegel !!X!!
+c) Das Maß der geodätischen Saughöhe ist für den Förderstrom ohne Einfluss !!O!!
+
+
+13 Welche Pumpenwellenabdichtung ist während des Betriebes nachstellbar?
+
+a) Radialdichtringe !!O!!
+b) Stopfbuchsenpackung !!X!!
+c) Gleitringdichtung !!O!!
+
+
+14 Welche der nachfolgenden Feuerwehrpumpen sind genormt?
+
+a) FPN 40/250 !!X!!
+b) FP 8/8 !!O!!
+c) FPN 10/750 !!X!!
+d) FPN 15/2000 !!X!!
+e) FP 24/8 !!O!!
+f) FP 32/8 !!O!!
+g) LP 24/3 !!O!!
+h) TUP 3-1,5 !!X!!
+i) TP 4/1 !!X!!
+j) TTP 8/1/8 !!X!!
+
+
+15 Welche Bedingungen müssen beim 1. Garantiepunkt einer Feuerlöschkreiselpumpe FPN 15/1000 erfüllt werden?
+
+a) Der Nennförderdruck muss mindestens 15 bar betragen !!X!!
+b) Der Nennförderstrom muss mindestens 1000 Liter/Minute sein !!X!!
+c) Die Nenndrehzahl darf hierbei max. ± 5% abweichen !!X!!
+d) Die geodätische Saughöhe muss 3,0 Meter betragen !!X!!
+e) Die geodätische Saughöhe muss 7,5 Meter betragen !!O!!
+
+
+16 Was bewirkt Kavitation (Hohlsog) in einer Feuerlöschkreiselpumpe?
+
+a) In der Feuerlöschkreiselpumpe bilden sich so hohe Drücke, dass das Gehäuse schlagartig auseinander bricht !!O!!
+b) Es bilden sich Dampfblasen in der Flüssigkeit, der Förderstrom kann nicht mehr erhöht werden !!X!!
+c) Beim Zerfall der Dampfblasen wird der Werkstoff des Laufrades zerstört !!X!!
+
+
+17 Welche Entlüftungseinrichtungen sind Strahlapparate?
+
+a) Wasserstrahlpumpe !!O!!
+b) Trockenring-Entlüftungspumpe !!O!!
+c) Gasstrahler einstufig !!X!!
+d) Gasstrahler zweistufig !!X!!
+
+
+18 Welche Möglichkeiten bestehen, wenn der Eingangsmanometer beim Ansaugen keinen negativen Druck anzeigt?
+
+a) Ausgangsventil der Feuerlöschkreiselpumpe ist offen !!X!!
+b) Die Feuerlöschkreiselpumpe oder die Saugleitung ist undicht !!X!!
+c) Das Schutzsieb am Saugkorb ist verstopft !!O!!
+d) Das Rückschlagorgan sitzt im Saugkorb fest !!O!!
+e) Der Saugkorb liegt teilweise außerhalb des Wassers !!X!!
+
+
+19 Was geschieht in der Feuerlöschkreiselpumpe, wenn der Wasserspaltring beschädigt ist?
+
+a) In der Feuerlöschkreiselpumpe entsteht ein Wasserkreislauf von der Druckseite zur Saugseite !!X!!
+b) In der Feuerlöschkreiselpumpe entsteht ein Wasserkreislauf von der Saugseite zur Druckseite !!O!!
+c) Beim Hydrantenbetrieb wird der Förderstrom größer, weil zusätzlich Wasser zu den Druckausgängen gelangen kann, dafür wird bei Saugbetrieb der Förderstrom geringer !!O!!
+d) Durch den Wasserkreislauf in der Feuerlöschkreiselpumpe wird der Schließdruck geringer !!X!!
+
+
+20 Sie bedienen an der Brandstelle eine Feuerlöschkreiselpumpe FPN 10/1000 und halten einen Ausgangsdruck von fünf bis sechs bar. Es ist zu Nachlöscharbeiten - für Sie nicht sichtbar - noch ein C-Rohr in Stellung. Wasserentnahme: offenes Gewässer Geodätische Saughöhe sechs Meter Auf was müssen Sie achten?
+
+a) Dass der Druck konstant bleibt !!X!!
+b) Weil die Feuerlöschkreiselpumpe nicht ausgelastet ist, brauchen Sie ihr keine besondere Aufmerksamkeit zu schenken. Sie können deshalb bei der Zurücknahme der nicht mehr benötigten Geräte behilflich sein !!O!!
+c) Das Pumpengehäuse von Zeit zu Zeit mit der Hand auf Temperatur überprüfen. Notfalls freien Druckausgang etwas öffnen oder Verbindungsleitung zum eingebauten Löschwasserbehälter etwas öffnen !!X!!
+
+
+21 Was bedeutet „Kavitation“ beim Fördern von Wasser mit einer Feuerlöschkreiselpumpe?
+
+a) Zerstörung des Laufrades !!X!!
+b) Zerstörung des Wasserspaltringes !!O!!
+c) Bildung von Wasserdampfbläschen !!X!!
+
+
+22 An welchen äußeren Merkmalen erkennen Sie den Unterschied zwischen einer einstufigen und einer zweistufigen Feuerlöschkreiselpumpe?
+
+a) An der Zahl der Druckausgänge !!O!!
+b) Am Typenschild (Nenndrehzahl) !!X!!
+c) An der Form des Pumpengehäuses !!X!!
+d) Am angegebenen Schließdruck !!O!!
+
+
+23 Die Heckpumpe vom Löschgruppenfahrzeug LF 10 ist an der Brandstelle im Einsatz. Die Wasserversorgung erfolgt über das Sammelstück vom Hydranten. Weil die Entnahme von Löschwasser aus der Versorgungsleitung unzureichend ist, wird mittels einer Tragkraftspritze PFPN 10/1000 Wasser aus einem in 200 Meter entfernten Teich entnommen. Frage: Darf die Zubringerleitung von der PFPN 10/1000 an das Sammelstück der Heckpumpe angeschlossen werden?
+
+a) Ja, weil Teichwasser wegen der Rückschlagklappe im Sammelstück nicht zum Hydranten gelangen kann !!O!!
+b) Nein, weil Bakterien ins Rohrnetz der Wasserversorgung gelangen können !!X!!
+c) Nur wenn der Druck des Rohrleitungsnetzes größer ist als der Druck in der Zubringerleitung von der PFPN 10/1000 !!O!!
+d) Nur wenn der Druck des Rohrleitungsnetzes niedriger ist als der Druck in der Zubringerleitung von der PFPN 10/1000 !!O!!
+
+
+24 Welche Ursachen sind denkbar, wenn die geodätische Saughöhe ein Meter beträgt, das Eingangsmanometer - 0,6 bar anzeigt und trotz Vollgas keine Anzeige am Ausgangsmanometer erfolgt?
+
+a) Schutzsieb des Saugkorbs verstopft !!X!!
+b) Saugkorb liegt teilweise außerhalb der Wasseroberfläche !!O!!
+c) Schutzsieb am Pumpeneingang verstopft !!X!!
+d) Rückschlagorgan im Saugkorb fehlt !!O!!
+e) Förderstrom sehr groß !!X!!
+
+
+25 Welche wichtigen Bauteile sind an Feuerlöschkreiselpumpen vorhanden?
+
+a) Kupplung !!O!!
+b) Gehäuse mit Gehäusedeckel !!X!!
+c) Kurbelwelle !!O!!
+d) Kolben und Ventile !!O!!
+e) Armaturen und Bedienungseinrichtungen !!X!!
+f) Entlüftungseinrichtung !!X!!
+g) Laufrad (Laufräder) !!X!!
+h) Messinstrumente !!X!!
+i) Schutzhaube !!O!!
+
+
+26 Was besagt der Begriff „Kavitation“?
+
+a) Geräuschbildung in der Feuerlöschkreiselpumpe ab vier Meter Saughöhe !!O!!
+b) Fremdkörper (Flugsand o.ä.) im Löschwasser !!O!!
+c) Bildung und Zerstörung von dampfgefüllten Hohlräumen in Flüssigkeiten !!X!!
+
+
+27 Welche der aufgeführten Armaturen legt der Maschinist bereit beziehungsweise schließt er an?
+
+a) Standrohr !!O!!
+b) Saugkorb !!X!!
+c) Sammelstück !!X!!
+d) Druckbegrenzungsventil !!O!!
+e) Verteiler !!O!!
+
+
+28 Worauf muss der Maschinist bei der Löschwasserförderung über lange Strecken achten?
+
+a) Verkehrsbehinderungen beachten !!O!!
+b) Verkehrsbehinderungen so gering wie möglich zulassen !!O!!
+c) Reserveschläuche und Ersatz-Feuerlöschkreiselpumpe bereithalten !!O!!
+d) Nachrichtenübermittlung sicherstellen !!O!!
+e) Förderleitung langsam füllen und auf angeordneten Druck gehen !!X!!
+f) An der Verstärker-Feuerlöschkreiselpumpe freien Druckausgang öffnen, damit Luft aus der Schlauchleitung entweichen kann !!X!!
+g) Dass der Förderdruck von acht bar eingehalten wird !!X!!
+h) Bei Temperaturen unter 0o C stets für fließendes Wasser sorgen !!X!!
+i) Förderleitung beaufsichtigen !!O!!
+j) Dass Schlauchbrücken verlegt werden !!O!!
+
+
+29 Wie viel mm Abstand müssen zwischen Masse und Mittel-Elektrode bei Zündkerzen von Tragkraftspritzen PFPN 10/1000 vorhanden sein?
+
+a) Entsprechend der Betriebs- beziehungsweise Bedienungsanleitung !!X!!
+b) Zehn Millimeter !!O!!
+c) Acht Millimeter !!O!!
+
+
+30 Auf was muss bei der Überprüfung der Verkehrssicherheit an einem Feuerwehrfahrzeug geachtet werden?
+
+a) Beladung, Verriegelung der Schubfächer/Geräte !!X!!
+b) Signal-Warnanlage !!X!!
+c) Bereifung, Profiltiefe !!X!!
+
+
+31 Was muss vor der Prüfung der Leistungswerte (Garantie-Punkte) einer Feuerlöschkreiselpumpe durchgeführt werden?
+
+a) Geodätische Saughöhe muss überprüft werden !!X!!
+b) Ölstand überprüfen !!O!!
+c) Kraftstoffinhalt überprüfen !!O!!
+
+
+32 Kreuzen Sie die Entlüftungseinrichtungen an, die verdrängungstechnisch wirken!
+
+a) Flüssigkeitsring-Entlüftungseinrichtung !!X!!
+b) Doppel-Freikolben-Entlüftungseinrichtung !!X!!
+c) Trockenring-Entlüftungseinrichtung !!X!!
+d) Gasstrahler (einstufig)-Entlüftungseinrichtung !!O!!
+e) Gasstrahler (zweistufig)-Entlüftungseinrichtung !!O!!
+
+
+33 Wann darf die Feuerwehr Sonderrechte im Straßenverkehr in Anspruch nehmen?
+
+a) Bei allen Einsätzen !!O!!
+b) Wenn der Einsatzleiter es anordnet !!O!!
+c) Wenn Menschenleben in Gefahr sind !!X!!
+d) Zur Erfüllung hoheitlicher Aufgaben, wenn höchste Eile dringend geboten ist !!X!!
+
+
+34 Bei einem Löschfahrzeug fällt die Entlüftungseinrichtung aus, weil die Auspuffanlage defekt ist. Welche Entlüftungseinrichtung hat das Fahrzeug?
+
+a) Flüssigkeitsring-Entlüftungseinrichtung !!O!!
+b) Trockenring-Entlüftungseinrichtung !!O!!
+c) Gasstrahler-Entlüftungseinrichtung !!X!!
+
+
+35 Zur Überprüfung der Einsatzbereitschaft einer Feuerlöschkreiselpumpe müssen Trockensaugproben gemacht werden. Wie oft soll dies geschehen?
+
+a) Mindestens einmal im Jahr !!O!!
+b) Mindestens einmal im Monat !!X!!
+c) Nach jedem Einsatz und jeder Übung !!X!!
+
+
+36 Was tut man, wenn die grüne Kontrollleuchte einer Tragkraftspritze PFPN 10-1000 mit VW-Industriemotor während des Pumpenbetriebes plötzlich erlischt?
+
+a) Motor abstellen, Ursache überprüfen und beseitigen, Pumpe in Betrieb nehmen, Einsatzleiter verständigen !!O!!
+b) Motordrehzahl etwas zurück nehmen, optisch prüfen, ob Keilriemen noch Gebläserad und Lichtmaschine antreibt, wenn ja, Wasserförderung nicht unterbrechen, da nur eine elektrische Störung vorliegt. Einsatzleiter verständigen !!X!!
+
+
+37 Warum müssen während des Betriebes alle Blindkupplungen an den Druckausgängen einer Feuerlöschkreiselpumpe angenommen werden?
+
+a) Weil der Druck in der Pumpe sonst zu groß würde !!O!!
+b) Weil sich zwischen dem Absperrorgan und der Blindkupplung ein Druck aufbauen könnte !!X!!
+c) Weil sonst beim späteren Abnehmen der Blindkupplungen erhöhte Unfallgefahr besteht !!X!!
+
+
+38 In welcher Stellung soll sich die Kupplung einer Tragkraftspritze PFPN 10/1000 befinden, wenn sie im Fahrzeug gelagert ist?
+
+a) Betrieb !!X!!
+b) Saugen !!O!!
+c) Kupplung ein !!X!!
+d) Kupplung aus !!O!!
+
+
+39 Wie berechnet man überschlägig den Kraftstoffverbrauch bei einem Löschgruppenfahrzeug während des Einsatzes der Pumpe, wenn die Tankuhr defekt ist?
+
+a) Eine Betriebsstunde der Feuerlöschkreiselpumpe entspricht etwa 60 km Fahrleistung !!X!!
+b) Eine Betriebsstunde der Feuerlöschkreiselpumpe entspricht etwa 100 km Fahrleistung !!O!!
+
+
+40 Nach einem zweistündigen Einsatz an der Tragkraftspritze PFPN 10/1000 soll der Maschinist abgelöst werden. Worauf hat er zu achten, bevor er von der PFPN 10/1000 weggeht?
+
+a) Dass die Tragkraftspritze PFPN 10/1000 nur in stillstehendem Zustand übergeben wird !!O!!
+b) Dass ausreichend Kraftstoff vorhanden ist !!X!!
+c) Dass er den Ablösenden einweist !!X!!
+
+
+41 Während des Einsatzes einer Feuerlöschkreiselpumpe bleibt plötzlich der Antriebsmotor stehen. Welche Ursachen sind denkbar?
+
+a) Motor und Motorenöl wurden zu heiß !!O!!
+b) Vergaser beziehungsweise Einspritzpumpe defekt !!X!!
+c) Kraftstoffmangel !!X!!
+
+
+42 Der statische beziehungsweise dynamische Prüfdruck beträgt bei den Feuerlöschkreiselpumpen FPN 10/1000
+
+a) 15 bar bei stehender, 22,5 bar bei laufender Pumpe !!X!!
+b) 16 bar bei stehender, 24,0 bar bei laufender Pumpe !!O!!
+
+
+43 Welche Feuerwehrpumpen dürfen zum Fördern von Heizöl extra leicht verwendet werden?
+
+a) Handmembranpumpe !!X!!
+b) Tragkraftspritze !!O!!
+c) Feuerlöschkreiselpumpe !!O!!
+d) Umfüllpumpe TUP 3-1,5 ex geschützt !!X!!
+e) tragbare Tauchpumpe mit Elektromotor TP 4-1 !!O!!
+f) Lenz-Kreiselpumpe !!O!!
+
+
+44 Welche Tätigkeiten gehören zu den Aufgaben des Maschinisten nach der Feuerwehr-Dienstvorschrift FWDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“?
+
+a) Bedienung der Feuerlöschkreiselpumpe !!X!!
+b) Fahren des Löschfahrzeugs !!X!!
+c) Absichern der Einsatzstelle !!O!!
+d) Mithilfe bei der Entnahme von Geräten aus dem Löschfahrzeug !!X!!
+e) Bedienung von Sonderaggregaten !!X!!
+f) Anschließen der Schlauchleitungen an die Feuerlöschkreiselpumpe !!X!!
+g) Bereitlegen von Kupplungsschlüsseln (falls erforderlich), Saugkorb, Saugschutzkorb, Halte- und Ventilleine bei offener Wasserentnahme !!X!!
+h) Standrohr in Stellung bringen bei Wasserentnahme aus dem Rohrnetz !!O!!
+
+
+45 Was sagt die Bezeichnung „TLF 2000“?
+
+a) Es handelt sich um ein Trockenlöschfahrzeug !!O!!
+b) Es handelt sich um ein Tanklöschfahrzeug !!X!!
+c) Das Fahrzeug hat eine Feuerlöschkreiselpumpe FPN 15/1000 !!O!!
+d) Das Fahrzeug hat einen Motor mit 200 KW !!O!!
+
+
+46 Welche der nachfolgenden Feuerwehrfahrzeuge sind Löschfahrzeuge?
+
+a) Löschgruppenfahrzeug LF 20 !!X!!
+b) Tanklöschfahrzeug TLF 3000 !!X!!
+c) Löschgruppenfahrzeug LF 16TS !!X!!
+d) Schlauchwagen SW 2000 !!O!!
+e) Gerätewagen-Gefahrgut !!O!!
+f) Tragkraftspritzenfahrzeug TSF !!X!!
+
+
+47 Welche der nachfolgenden kraftbetriebenen Geräte können sich nach Norm als zusätzliche Beladung auf einem genormten Löschfahrzeug befinden?
+
+a) Tauchpumpe TP 4-1 !!X!!
+b) Tragbarer Stromerzeuger 5 kVA !!X!!
+c) Brennschneidgerät !!O!!
+d) Plasma-Schneidgerät !!O!!
+e) Presslufthammer !!O!!
+f) Motorkettensäge !!X!!
+g) Hydraulisches Rettungsgerät !!X!!
+
+
+48 Was beinhaltet die Bezeichnung „HLF 20“?
+
+a) Löschgruppenfahrzeug !!X!!
+b) Eingebauter Löschwasserbehälter mit einer nutzbaren Wassermenge von mindestens 1600 Liter vorhanden !!X!!
+c) Schnellangriff Wasser vorhanden !!X!!
+d) Feuerlöschkreiselpumpe FPN 10/1000 im Heck eingebaut !!O!!
+e) Feuerlöschkreiselpumpe FPN 15/1000 als Frontpumpe angebaut !!O!!
+
+
+49 Was verstehen Sie unter dem Begriff „Entlüftungszeit“?
+
+a) Ein negativer Druck von - 0,8 bar muss in 30 Sekunden erreicht sein !!O!!
+b) Erforderliche Zeit in Sekunden, um eine Pumpe einschließlich der Saugleitung zu entlüften und das Löschwasser mit positivem Druck bis zum Austrittsquerschnitt zu fördern. !!X!!
+c) Er negative Druck darf von - 0,8 bar innerhalb einer Minute nicht mehr als 0,1 bar steigen !!O!!
+
+
+50 Warum benötigen Feuerlöschkreiselpumpen eine Entlüftungseinrichtung?
+
+a) Weil Ein- und Auslassventile nicht vorhanden sind !!O!!
+b) Weil auch Schmutzwasser gefördert werden kann !!O!!
+c) Weil die Drehzahl des Laufrades zu niedrig ist !!O!!
+d) Weil der Luftdruck dem Wasserdruck entgegen wirkt !!O!!
+e) Weil zwischen Laufrad und Pumpengehäuse kein luftdichter Abschluss ist !!X!!
+
+
+51 Welcher Zusammenhang besteht zwischen Saughöhe und Luftdruck?
+
+a) Hoher Luftdruck - hohe praktische Saughöhe !!X!!
+b) Niederer Luftdruck – hohe praktische Saughöhe !!O!!
+
+
+52 Welche Knoten, Schläge oder Stiche sind zum Aufbau einer Saugleitung nach den Richtlinien erforderlich?
+
+a) Mastwurf !!X!!
+b) Pfahlstich !!O!!
+c) Halbschlag !!X!!
+d) Schotenstich !!O!!
+e) Doppelschlinge !!O!!
+f) Zimmermannschlag !!X!!
+
+
+53 Bei welcher Pumpe darf am Druckausgang beziehungsweise in der Druckleitung kein Absperrorgan angebracht werden?
+
+a) Wasserstrahlpumpe !!O!!
+b) Turbinentauchpumpe !!O!!
+c) Tauchpumpe mit elektrischem Antrieb !!O!!
+d) Exzenterschneckenpumpe !!X!!
+e) Feuerlöschkreiselpumpe !!O!!
+f) Fass- und Behälterpumpe !!O!!
+
+
+54 Wovon hat sich der Maschinist zu überzeugen, bevor eine Einsatz- oder Unfallstelle verlassen wird?
+
+a) Brandwache bereitgestellt !!O!!
+b) Hydranten entwässert !!O!!
+c) Verkehrssicherungsgerät ins Fahrzeug zurück gebracht !!X!!
+d) Feuerlöschkreiselpumpe entwässert !!X!!
+e) Absperreinrichtungen geschlossen und Blindkupplungen aufgesetzt !!X!!
+f) Löschgruppe vollzählig !!O!!
+
+
+55 Welche der folgenden Aussagen sind gemäß Unfallverhütungsvorschriften richtig?
+
+a) Der Fahrer eines Feuerwehrfahrzeuges hat erst dann anzufahren, wenn der Gruppenführer dazu das Zeichen gibt !!X!!
+b) Während der Fahrt ist für die Einhaltung der Straßenverkehrs- Vorschriften allein der Fahrer verantwortlich !!X!!
+c) Den sonstigen Straßenverkehr auf das abgestellte Feuerwehrfahrzeug aufmerksam machen !!X!!
+d) Nie mit überladenem Fahrzeug fahren !!X!!
+e) Keine Schnelligkeit auf Kosten der Sicherheit !!X!!
+f) Zusätzliche Schutzkleidung beim Betrieb der Motorkettensäge, des´Trennschleifers und der hydraulischen Rettungsgeräte tragen !!X!!
+g) Wer Sonderrechte nach § 35 Straßenverkehrsordnung in Anspruch nimmt, ist zu erhöhter Aufmerksamkeit verpflichtet !!X!!
+
+
+56 Während des Betriebes einer Tragkraftspritze PFPN 10/1000 mit VW-Industriemotor leuchtet anfangs die grüne Kontrolllampe auf und erlischt nach kurzer Zeit. Welche Ursachen können vorliegen?
+
+a) Der Öldruck hat sich verringert !!O!!
+b) Die Glühbirne ist durchgebrannt !!X!!
+c) Der Keilriemen ist abgerissen !!X!!
+d) Die Stromzuführung zur Glühbirne ist defekt !!X!!
+
+
+57 Welches sind Einflüsse, die verhindern, dass die theoretische Saughöhe von 10,33 Meter praktisch nicht erreicht werden kann?
+
+a) Niederer Barometerstand als normal !!X!!
+b) Entlüftungseinrichtung erzeugt kein vollkommenes Vakuum !!X!!
+c) Wassertemperatur ist höher als 4° C !!X!!
+d) In der Saugleitung oder Feuerlöschkreiselpumpe sind Undichtigkeiten !!X!!
+e) Bei der saugseitigen Wasserförderung treten hydraulische Verluste (Strömungs- und Reibungsverluste) auf !!X!!
+f) Die Feuerlöschkreiselpumpe erreicht keine Nenndrehzahl mehr !!O!!
+
+
+58 Wie kann sich der Maschinist helfen, wenn die Entlüftungseinrichtung der Feuerlöschkreiselpumpe ausgefallen ist?
+
+a) Bei Tanklöschfahrzeugen Feuerlöschkreiselpumpe und Saugleitung aus dem eingebauten Löschwasserbehälter füllen !!X!!
+b) Gruppenführer benachrichtigen, damit eine Feuerlöschkreiselpumpe nachgefordert wird !!X!!
+c) Pumpe und Saugleitung „von Hand“ auffüllen !!X!!
+
+
+59 Worauf hat der Maschinist im Winter bei einer Flüssigkeitsring- Entlüftungseinrichtung zu achten?
+
+a) Dass die Feuerlöschkreiselpumpe nur im beheizten Feuerwehrhaus abgestellt wird !!O!!
+b) Dass die Feuerlöschkreiselpumpe samt Entlüftungseinrichtung nach jedem Einsatz und jeder Übung entleert wird !!X!!
+c) Dass die Entlüftungseinrichtung mit Frostschutzmittel aufgefüllt wird !!X!!
+
+
+60 Wer ist bei einer Einsatzfahrt für das Feuerwehrfahrzeug verantwortlich?
+
+a) Der Maschinist als Fahrer des Feuerwehrfahrzeuges !!X!!
+b) Der Gruppenführer !!O!!
+c) Der Zugführer !!O!!

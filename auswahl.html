@@ -1,0 +1,78 @@
+<HTML>
+
+<HEAD>
+
+<script language="JavaScript">
+<!--
+
+function Load()
+ {
+if(document.eingabe.art.options[0].selected == true)
+  {
+    
+    if(document.eingabe.anzahl.value < 1 || document.eingabe.anzahl.value > 90)
+     { document.eingabe.anzahl.value = 90; }
+    parent.fragebogen.location.href = "mannschaft.html";
+    parent.fragebogen.focus(); 
+   
+  }
+
+  if(document.eingabe.art.options[1].selected == true)
+  {
+  if(document.eingabe.anzahl.value < 1 || document.eingabe.anzahl.value > 60)
+  { document.eingabe.anzahl.value = 60; }
+   parent.fragebogen.location.href = "maschinist.html"; 
+    parent.fragebogen.focus(); 
+   }
+
+  if(document.eingabe.art.options[2].selected == true)
+   {
+    if(document.eingabe.anzahl.value < 1 || document.eingabe.anzahl.value > 60)
+     { document.eingabe.anzahl.value = 60; }
+    parent.fragebogen.location.href = "gruppenfuehrer.html"; 
+    parent.fragebogen.focus(); 
+   }
+ }
+ 
+//-->
+</script>
+<title>Auswahl Fragen zum goldenen Feuerwehrleistungsabzeichen in Baden-Württemberg</title>
+<base target="_self">
+</HEAD>
+
+<FORM NAME="eingabe">
+
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000">
+  <table border="0" width="100%" height="177">
+    <tr>
+      <td width="100%" align="center" height="89"><IMG SRC="pics/wappen.gif" VSPACE=0 width="100" height="60">
+        <p>&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" height="20"><font face="Arial" size="3">Anzahl Fragen:</font></td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" height="25">
+        <p align="center"><INPUT NAME="anzahl" SIZE=2 MAXLENGTH=2 VALUE=10></p><p align="center">&nbsp;</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" height="25">
+        <p align="center">
+            <select name="art" size="1">
+              <option SELECTED>Mannschaft</option>
+              <option>Maschinist</option>
+              <option>Gruppenführer</option>
+            </select>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" height="27"><INPUT TYPE=button VALUE="Start" onClick="Load()" name="neu"></td>
+    </tr>
+  </table>
+
+  <p align="center">&nbsp;</p>
+
+</BODY>
+</HTML>
